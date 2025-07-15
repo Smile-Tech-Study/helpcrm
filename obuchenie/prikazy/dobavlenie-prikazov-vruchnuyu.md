@@ -43,7 +43,8 @@ description: Пошаговая инструкция ручного добавл
 
 {% hint style="info" %}
 Приказ можно добавить, если в этой заявке выбрана группа шаблонов, где установлен способ добавления приказов вручную.
-{% endhint %}
+
+:::
 
 <figure><img src="../../.gitbook/assets/image (145).png" alt=""><figcaption></figcaption></figure>
 
