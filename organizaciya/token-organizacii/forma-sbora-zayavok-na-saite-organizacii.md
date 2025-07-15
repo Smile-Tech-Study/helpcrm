@@ -95,4 +95,4 @@
 
 **Шаг 6: Проверьте появление заявки во Flow CRM**
 
-[video:http://rutube.ru/video/private/895c8fd5e2e3352512b5f993d1938e44/?p=LkCVXgsGPb_Hbg98Q_0pLA" %}
+[video:http://rutube.ru/video/private/895c8fd5e2e3352512b5f993d1938e44/?p=LkCVXgsGPb_Hbg98Q_0pLA]
