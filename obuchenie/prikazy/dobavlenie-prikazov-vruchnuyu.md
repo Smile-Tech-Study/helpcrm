@@ -6,13 +6,13 @@ description: Пошаговая инструкция ручного добавл
 
 Включить ручную генерацию приказов можно со страницы "Шаблоны документов" в блоке "Настройка групп шаблонов", выбрав соответствующий радиобаттон.
 
-![](<../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (18).png>)
 
 ## Шаг 1. Создание приказа
 
 Добавьте приказ через пункт меню "Обучение" - "Приказы" - "Создать".
 
-![](<../../.gitbook/assets/image (142).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (142).png>)
 
 ## Шаг 2. Заполнение данных о приказе
 
@@ -26,13 +26,13 @@ description: Пошаговая инструкция ручного добавл
 * Дата регистрации
 * Загрузите скан-копию приказа. Если в момент создания приказа скан-копии ещё нет, то можно вернуться к редактированию приказа и загрузить скан позже. Для каждого приказа загружается только одна скан-копия. На один поток может быть несколько приказов с разными списками слушателей.
 
-![](<../../.gitbook/assets/image (143).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (143).png>)
 
 ### Редактирование приказов
 
 При редактировании приказа возможно добавить скан-копию приказа, изменить дату выпуска и номер приказа. Для этого в пункте меню "Обучение" - "Приказы" напротив изменяемого приказа нажмите кнопку "Редактировать".
 
-![](<../../.gitbook/assets/image (144).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (144).png>)
 
 ## Шаг 3. Назначение приказа слушателю <a href="#shag-3.-naznachenie-prikaza-grazhdaninu" id="shag-3.-naznachenie-prikaza-grazhdaninu"></a>
 
@@ -47,11 +47,11 @@ description: Пошаговая инструкция ручного добавл
 
 :::
 
-![](<../../.gitbook/assets/image (145).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (145).png>)
 
 В открывшемся модальном окне появятся доступные приказы. Надо выбрать верный и нажать "Сохранить".
 
-![](<../../.gitbook/assets/image (146).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (146).png>)
 
 #### Этапы заявок для назначения приказов <a href="#statusy-zayavok-dlya-naznacheniya-prikazov" id="statusy-zayavok-dlya-naznacheniya-prikazov"></a>
 

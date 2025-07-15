@@ -2,7 +2,7 @@
 
 ## Добавление
 
-![](<../../.gitbook/assets/image (74).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (74).png>)
 
 Укажите:
 
@@ -35,16 +35,16 @@
 
 Заполните по желанию необязательные поля и сохраните Программу.&#x20;
 
-![](<../../.gitbook/assets/image (77).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (77).png>)
 
 ***
 
 После создания программы будет предложено  "Перейти к добавлению [Стоимости](stoimost-programmy.md)" или заполнить стоимость позже ->  откроется страница созданной программы, где следует добавить [Поток](potok/).
 
-![](<../../.gitbook/assets/image (80).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (80).png>)
 
 ## Редактирование &#x20;
 
 После создания программы, если потребуются определенные корректировки, необходимо открыть страницу программы, кликнув на название в списке программ и нажать на карандашик.
 
-![](<../../.gitbook/assets/image (82).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (82).png>)

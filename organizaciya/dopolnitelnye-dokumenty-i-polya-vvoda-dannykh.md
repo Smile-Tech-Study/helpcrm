@@ -4,22 +4,22 @@
 
 1. &#x20;документы для вашей организации, которые необходимо загрузить слушателю в ЛК, а сотруднику организации проверить.
 
-![](<../.gitbook/assets/image (174).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (174).png>)
 
 Эти документы можно будет в дальнейшем удалять/редактировать.&#x20;
 
-![](<../.gitbook/assets/image (175).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (175).png>)
 
 2. поля для заполнения слушателем
 
-![](<../.gitbook/assets/image (176).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (176).png>)
 
 Далее выбрать добавленные документы и поля для ввода необходимо на странице [программы](../obuchenie/programma/). Документы и поля будут доступны для заполнения в ЛК сдающего.
 
 Каждому дополнительному полю можно задать свое уникальное ключевое слово, которое затем будет использоваться в шаблонах.
 
-![](<../.gitbook/assets/image (173).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (173).png>)
 
 3. внешние источники
 
-![](<../.gitbook/assets/image (194).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (194).png>)

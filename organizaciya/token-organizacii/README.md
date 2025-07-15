@@ -11,7 +11,7 @@
 * Информация;
 * Контакты.
 
-![](<../../.gitbook/assets/image (103).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (103).png>)
 
 ***
 

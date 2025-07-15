@@ -6,11 +6,11 @@
 
 Регистрирующему организацию сотруднику назначается роль Представитель организации (Администратор).
 
-![](<../.gitbook/assets/image (73).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (73).png>)
 
 ## Заполнения информации
 
-![](<../.gitbook/assets/image (59).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (59).png>)
 
 :::info
 
@@ -76,7 +76,7 @@
 
 Кнопка "Заполнить позже" откроет пустой  ЛК Flow, в котором уже будет авторизован пользователь, указанный при создании организации.
 
-![](<../.gitbook/assets/image (60).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (60).png>)
 
 ***
 

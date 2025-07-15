@@ -8,7 +8,7 @@ description: >-
 
 ## &#x20;Как добавить подписанта?
 
-![](<../.gitbook/assets/image (69).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (69).png>)
 
 На странице формы необходимо будет заполнить поля:
 
@@ -31,7 +31,7 @@ description: >-
 
 :::
 
-![](<../.gitbook/assets/image (72).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (72).png>)
 
 ## Как отредактировать/изменить данные подписанта?
 
