@@ -72,6 +72,6 @@ description: Для работы в системе с данными будущ�
 
 **Импорт заявок (видео-инструкция)**
 
-{% embed url="https://rutube.ru/video/f5d3cd9e6401a0f8bafe6b521a4251d2/" %}
+[video:https://rutube.ru/video/f5d3cd9e6401a0f8bafe6b521a4251d2/" %}
 
-{% embed url="http://rutube.ru/video/f5d3cd9e6401a0f8bafe6b521a4251d2/" %}
+[video:http://rutube.ru/video/f5d3cd9e6401a0f8bafe6b521a4251d2/" %}
