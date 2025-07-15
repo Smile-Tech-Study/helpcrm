@@ -24,7 +24,7 @@
 
 <summary>Информация</summary>
 
-<img src="../.gitbook/assets/image (64).png" alt="" data-size="original">
+![](<../.gitbook/assets/image (64).png" alt="" data-size="original">
 
 **Генерация договоров со слушателями** недоступна для выбора на данном этапе, так как требует дополнительных действий. [Подробнее](../slushateli/zayavki/generaciya-dogovorov-so-slushatelyami.md)
 
