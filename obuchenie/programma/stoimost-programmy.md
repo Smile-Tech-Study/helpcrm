@@ -12,7 +12,8 @@
 
 <figure><img src="../../.gitbook/assets/image (84).png" alt=""><figcaption></figcaption></figure>
 
-{% hint style="info" %}
+:::info
+
 Если программа будет проводиться бесплатно, необходимо выставить стоимость 0.
 
 :::

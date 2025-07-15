@@ -10,7 +10,8 @@
 
 <figure><img src="../.gitbook/assets/image (38).png" alt=""><figcaption></figcaption></figure>
 
-{% hint style="info" %}
+:::info
+
 Если у организации несколько групп шаблонов документов, то добавляются два [этапа](../slushateli/zayavki/etapy-raboty-s-zayavkoi.md): “Новая заявка” и “Требуется выбрать группу шаблонов документов”.
 
 :::

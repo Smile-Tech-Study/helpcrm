@@ -63,7 +63,8 @@ description: >-
 
 <figure><img src="../.gitbook/assets/image (130).png" alt=""><figcaption></figcaption></figure>
 
-{% hint style="info" %}
+:::info
+
 Позднее планируется подключить к платформе Flow системы эквайринга других банков.
 
 :::

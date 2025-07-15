@@ -12,7 +12,8 @@
 
 <figure><img src="../.gitbook/assets/image (59).png" alt=""><figcaption></figcaption></figure>
 
-{% hint style="info" %}
+:::info
+
 Если какие данные при заполнении неизвестны можно "Сохранить" и внести их позднее.
 
 :::
