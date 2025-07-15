@@ -24,7 +24,7 @@
 ### Шаг 2. Добавление внешних источников
 
 [tabs]
-{% tab title="Заявка" %}
+[tab:Заявка" %}
 Внешний источник можно выбрать при создании заявки&#x20;
 
 <figure><img src=".gitbook/assets/image (188).png" alt=""><figcaption></figcaption></figure>
@@ -40,13 +40,13 @@
 <figure><img src=".gitbook/assets/image (193).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
-{% tab title="Образовательная программа" %}
+[tab:Образовательная программа" %}
 
 
 Добавление нового функционала пока в работе
 {% endtab %}
 
-{% tab title="Поток программы" %}
+[tab:Поток программы" %}
 Добавление нового функционала пока в работе
 {% endtab %}
 {% endtabs %}
