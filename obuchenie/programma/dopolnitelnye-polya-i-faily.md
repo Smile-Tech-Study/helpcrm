@@ -8,7 +8,8 @@
 
 <figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
-{% hint style="danger" %}
+:::danger
+
 Чтобы доп.данные, доп.документы и внешние источники появились для выбора на странице программы, их необходимо предварительно [добавить на странице организации](../../organizaciya/dopolnitelnye-dokumenty-i-polya-vvoda-dannykh.md).
 
 :::
