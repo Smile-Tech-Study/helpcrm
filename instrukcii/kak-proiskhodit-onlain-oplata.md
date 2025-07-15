@@ -10,31 +10,31 @@ description: >-
 
 На странице с общей информацией об организации можно подать заявку на подключение оплаты через эквайринг. Кнопка "Подключить эквайринг" ведет на страницу заполнения формы для Т-Банка.
 
-<figure><img src="../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
 
 После сохранения заполненных данных приходит ответ об успешном подключении. Эквайринг подключен.
 
-<figure><img src="../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
 
 #### **Оплата в ЛК слушателя**
 
 По нажатию на кнопку “Оплатить” система переводит пользователя на страницу оплаты с информацией о дате начала и окончания обучения, а также его стоимости. На этой же странице пользователь сможет ознакомиться с договором оферты. После нажатия чек-бокса “Ознакомлен и согласен с условиями договора оферты по оплате” станет доступна кнопка “Перейти к оплате”, которая открывает страницу оплаты через эквайринг.
 
-<figure><img src="../.gitbook/assets/image (119).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (119).png" alt=""><figcaption></figcaption></figure>
 
 При успешной оплате пользователь попадёт на страницу успеха, откуда он может перейти к следующему шагу в ЛК.&#x20;
 
-<figure><img src="../.gitbook/assets/image (120).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (120).png" alt=""><figcaption></figcaption></figure>
 
 Если же оплата не прошла, то пользователь попадёт на страницу ошибки, откуда он может попробовать оплатить ещё раз или обратиться в поддержку. Ошибка в этом случае подсвечивается в предупредительном уведомлении: “Попробуйте ещё раз или свяжитесь со службой поддержки” (последняя фраза кликабельна и открывает обращение в поддержку).
 
-<figure><img src="../.gitbook/assets/image (121).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (121).png" alt=""><figcaption></figcaption></figure>
 
 #### Чеки об оплате за обучение в ЛК слушателя
 
 После успешной оплаты в ЛК слушателя доступен чек об оплате за обучение. Пользователь может перейти по ссылке на чек в системе эквайринга, а также подать обращение в организацию на возврат денежных средств.
 
-<figure><img src="../.gitbook/assets/image (123).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (123).png" alt=""><figcaption></figcaption></figure>
 
 #### Оплата в заявке Flow
 
@@ -45,23 +45,23 @@ description: >-
 
 Просмотреть данные об оплате, а также чек, можно в модальном окне “Информация по оплате обучения” по клику на иконку “Информация”, которая появляется рядом со статусом оплаты обучения.
 
-<figure><img src="../.gitbook/assets/image (124).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (124).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (129).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (129).png" alt=""><figcaption></figcaption></figure>
 
 #### Отклонение заявки и возврат оплаты
 
 После смены статуса оплаты заявки на "Оплачено", рядом со статусом с иконкой информации об оплате появляется новая иконка-кнопка "Вернуть оплату за обучение". Как описывалось выше, кнопка "Отклонить заявку" заблокирована, при наведении появляется сообщение "Сделайте возврат средств за обучение, чтобы отклонить заявку".
 
-<figure><img src="../.gitbook/assets/image (127).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (127).png" alt=""><figcaption></figcaption></figure>
 
 Кнопка "Вернуть оплату за обучение" ведет на страницу оформления возврата в Т-Банк. После произведенного возврата статус оплаты меняется на "Произведен возврат средств". Кнопка "Отклонить заявку" становится снова активной.
 
-<figure><img src="../.gitbook/assets/image (126).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (126).png" alt=""><figcaption></figcaption></figure>
 
 После смены статуса оплаты на "Произведен возврат средств" в модальном окне информации о платеже появляется ссылка на чек о возврате.
 
-<figure><img src="../.gitbook/assets/image (130).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (130).png" alt=""><figcaption></figcaption></figure>
 
 :::info
 

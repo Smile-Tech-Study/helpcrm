@@ -12,4 +12,4 @@
 * [x] Работайте с [заявками](slushateli/zayavki/)
 * [x] Завершите обучение&#x20;
 
-<figure><img src=".gitbook/assets/быстрый старт.jpg" alt="" width="375"><figcaption></figcaption></figure>
+![](<.gitbook/assets/быстрый старт.jpg" alt="" width="375"><figcaption></figcaption></figure>

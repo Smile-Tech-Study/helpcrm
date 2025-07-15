@@ -8,7 +8,7 @@ description: Существует два варианта выставления
 [tab:Без интеграции с Odin" %}
 Если Flow CRM не интегрирована с Odin, то статус заявки необходимо выставлять на странице самой заявки в блоке "Обучение" по кнопке.
 
-<figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
 [/tab]
 
 [tab:Интеграция с Odin" %}
@@ -16,17 +16,17 @@ description: Существует два варианта выставления
 
 В случае, если конкретному студенту во время обучения необходимо выставить статус "Отчислился" или по завершении обучения выбрать успешно/неуспешно, можно со страницы профиля сразу перейти на страницу "Завершения обучения". Для этого в профиле в блоке "Статус обучения" есть флажок.
 
-<figure><img src="../../.gitbook/assets/image (153).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (153).png" alt=""><figcaption></figcaption></figure>
 
 **Как выставить информацию о завершении обучения в потоке?**
 
 Когда обучение в потоке по датам закончилось, на странице потока необходимо нажать на «Завершить обучение». Нажатие на кнопку "Завершить обучение" просто откроет страницу для заполнения информации.
 
-<figure><img src="../../.gitbook/assets/image (154).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (154).png" alt=""><figcaption></figcaption></figure>
 
 На данной странице необходимо будет проставить статус по каждому из студентов.
 
-<figure><img src="../../.gitbook/assets/image (155).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (155).png" alt=""><figcaption></figcaption></figure>
 [/tab]
 {% endtabs %}
 

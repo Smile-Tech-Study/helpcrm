@@ -9,12 +9,12 @@
 1. Зайти в существующую организацию в [системе Odin](https://www.odin.study/ru/University/Universities?page=1\&name=\&universityProjectTypes\&universityLincenseTypes).
 2. Скопировать токен для интеграции с Flow.
 
-<figure><img src="../.gitbook/assets/image (164).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (164).png" alt=""><figcaption></figcaption></figure>
 
 3. Перейти в систему [Flow](https://www.flow-crm.study/).
 4. На странице организации во Flow на вкладке "Информация" необходимо включить "Да, зарегистрирована" и указать токен из пункта 2.
 
-<figure><img src="../.gitbook/assets/image (165).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (165).png" alt=""><figcaption></figcaption></figure>
 
 ### **ШАГ 2. Привязка подразделения:**
 
@@ -29,15 +29,15 @@
 
 3. Откройте организацию во Flow, перейдите на вкладку "Подразделения".
 
-<figure><img src="../.gitbook/assets/image (166).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (166).png" alt=""><figcaption></figcaption></figure>
 
 4. Создайте новое или перейдите к редактированию существующего подразделения.
 
-<figure><img src="../.gitbook/assets/image (167).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (167).png" alt=""><figcaption></figcaption></figure>
 
 5. &#x20;Поставьте галочку "Да" и выберите подразделение, созданное в пункте 2, и сохраните.
 
-<figure><img src="../.gitbook/assets/image (168).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (168).png" alt=""><figcaption></figcaption></figure>
 
 ### **ШАГ 3. Привязка программ:**
 
@@ -49,7 +49,7 @@
 4. Выберите "Нет" в пункте "Программа уже создана в Odin".
 5. Нажмите "Сохранить".
 
-<figure><img src="../.gitbook/assets/image (170).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (170).png" alt=""><figcaption></figcaption></figure>
 
 Программа будет создана в LMS  Odin :tada:
 
@@ -69,13 +69,13 @@
 5. Выберите из списка необходимую программу из LMS Odin.
 6. Нажмите "Сохранить".
 
-<figure><img src="../.gitbook/assets/image (171).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (171).png" alt=""><figcaption></figcaption></figure>
 
 ### **ШАГ 4. Привязка потока:**
 
 Потоки создаются на странице программы, привязанной к LMS Odin, и  автоматически передаются в LMS Odin с данными из Flow.
 
-<figure><img src="../.gitbook/assets/image (172).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (172).png" alt=""><figcaption></figcaption></figure>
 
 :::danger
 

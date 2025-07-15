@@ -8,4 +8,4 @@
 * работать с документами слушателей от [подачи](../slushateli/zayavki/sposoby-sozdaniya-zayavok.md) / [создания](../slushateli/zayavki/sposoby-sozdaniya-zayavok.md) заявки до выдачи документа по завершении обучения.
 * генерировать [документы по шаблонам](shablony-dokumentov/) в автоматическом порядке.
 
-<figure><img src="../.gitbook/assets/Организация (1) (1).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/Организация (1) (1).png" alt=""><figcaption></figcaption></figure>

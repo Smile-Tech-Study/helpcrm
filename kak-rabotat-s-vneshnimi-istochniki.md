@@ -12,14 +12,14 @@
 
 На странице организации в разделе "Внешние источники" необходимо нажать "Добавить".
 
-<figure><img src=".gitbook/assets/image (185).png" alt=""><figcaption></figcaption></figure>
+![](<.gitbook/assets/image (185).png" alt=""><figcaption></figcaption></figure>
 
 * Запонить:
   * название внешнего источника (рекомендуем написать название той системы, информацию о которой хотите добавить во Flow), понятное сотрудникам организации;
   * короткое название на латинице: это название будет использоваться внутри.
 * Выбрать раздел, где будет использоваться "Внешний источник".&#x20;
 
-<figure><img src=".gitbook/assets/image (186).png" alt=""><figcaption></figcaption></figure>
+![](<.gitbook/assets/image (186).png" alt=""><figcaption></figcaption></figure>
 
 ### Шаг 2. Добавление внешних источников
 
@@ -27,17 +27,17 @@
 [tab:Заявка" %}
 Внешний источник можно выбрать при создании заявки&#x20;
 
-<figure><img src=".gitbook/assets/image (188).png" alt=""><figcaption></figcaption></figure>
+![](<.gitbook/assets/image (188).png" alt=""><figcaption></figcaption></figure>
 
 Затем ввести значение и создать заявку&#x20;
 
-<figure><img src=".gitbook/assets/image (192).png" alt=""><figcaption></figcaption></figure>
+![](<.gitbook/assets/image (192).png" alt=""><figcaption></figcaption></figure>
 
 На странице заявки появится введенное значение.&#x20;
 
 Возможно добавить несколько "Внешних источников". &#x20;
 
-<figure><img src=".gitbook/assets/image (193).png" alt=""><figcaption></figcaption></figure>
+![](<.gitbook/assets/image (193).png" alt=""><figcaption></figcaption></figure>
 [/tab]
 
 [tab:Образовательная программа" %}

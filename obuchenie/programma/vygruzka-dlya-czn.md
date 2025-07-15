@@ -2,11 +2,11 @@
 
 На странице программы есть возможность скачать выгрузку для ЦЗН.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 Она содержит следующие данные:
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 Даже если у пользователя не было за месяц нахождения в потоке ни одной активности. В колонках "Количество посещенных занятий (ч)" и "Количество проведенных занятий (ч)" будет значение 0.&#x20;
 

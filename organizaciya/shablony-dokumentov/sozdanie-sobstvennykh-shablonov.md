@@ -4,7 +4,7 @@
 
 Перейдите в шаблоны документов.
 
-<figure><img src="../../.gitbook/assets/image (42).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (42).png" alt=""><figcaption></figcaption></figure>
 
 По умолчанию будет сгенерирована первая группа шаблонов, где:
 
@@ -16,7 +16,7 @@
   * &#x20;[автоматического выпуска приказов](../../obuchenie/prikazy/avtomaticheskii-vypusk.md)
   * генерации договоров со слушателями
 
-<figure><img src="../../.gitbook/assets/image (53).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (53).png" alt=""><figcaption></figcaption></figure>
 
 1. Измените название группы шаблонов на понятное для вас, например, "Педагоги\_ПО"/"Все ДПО".
 2. Внесите комментарий, если это необходимо.&#x20;
@@ -26,19 +26,19 @@
 
 По кнопке “Перейти в карточку организации” пользователь попадает на страницу Подписанты.
 
-<figure><img src="../../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
 
 ## Шаг 2.  Скачивание и редактирование обязательных шаблонов документов
 
 1. Скачайте шаблон документа Заявление
 
-<figure><img src="../../.gitbook/assets/image (54).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (54).png" alt=""><figcaption></figcaption></figure>
 
 2. Откройте файл с заявлением и ключевые слова (можно открыть во Flow или скачать файл Excel и открыть его). На примере заявления на зачисления посмотрите, как по тексту подставляются ключевые слова.&#x20;
 
 Например, ключевое слово **§ProgramType§**  - тип программы, найдя его в шаблоне, Flow подставит значение  из поля тип программы из заявки слушателя, когда для него будет генерироваться заявление на зачисление.
 
-<figure><img src="../../.gitbook/assets/image (50).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (50).png" alt=""><figcaption></figcaption></figure>
 
 3. Если в заявлении на зачисление требуются корректировки, внесите их, копируя ключевые слова.&#x20;
 
@@ -51,7 +51,7 @@
 4. Сохраните файл со своими дополнениями
 5. Загрузите скорректированный файл во Flow
 
-<figure><img src="../../.gitbook/assets/image (51).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (51).png" alt=""><figcaption></figcaption></figure>
 
 5. Повторите пункты 1-4 с заявлением на отчисление и с согласием на обработку персональных данных.
 
@@ -63,7 +63,7 @@
 
 6. Проверьте  каждый из загруженных,  документов нажав на "глаз"
 
-<figure><img src="../../.gitbook/assets/image (52).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (52).png" alt=""><figcaption></figcaption></figure>
 
 ## Шаг 3. Выпуск приказов&#x20;
 
@@ -75,7 +75,7 @@
 
 При выборе автоматического выпуска приказов будет предложено 2 шаблона для приказа на зачисление и отчисление (причина отчисления будет подтягиваться в приказ из статуса заявки).
 
-<figure><img src="../../.gitbook/assets/image (91).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (91).png" alt=""><figcaption></figcaption></figure>
 
 Повторите пункты 1-4 из шага 2.&#x20;
 
@@ -92,7 +92,7 @@
 
 Когда приказ будет генерироваться для заявки, вместо крестика появится [штамп подписанта](../podpisanty.md).
 
-<figure><img src="../../.gitbook/assets/image (93).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (93).png" alt=""><figcaption></figcaption></figure>
 
 ## Шаг 4. Генерация договоров со слушателями&#x20;
 
@@ -104,7 +104,7 @@
 
 У каждой организации свои требования к договору на обучение, поэтому, нажав "Разрешить", не будет образца документа.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (45).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (45).png" alt=""><figcaption></figcaption></figure>
 
 Шаблон договора необходимо будет подготовить самостоятельно, подставив по тексту [ключевые слова](klyuchevye-slova.md). Попрактиковавшись на шаге 2 и 3, переходите к его созданию:
 
@@ -114,7 +114,7 @@
 4. Сохраните файл
 5. Загрузите его во Flow
 
-<figure><img src="../../.gitbook/assets/image (46).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (46).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -127,7 +127,7 @@
 Выбрать подходящую группу  шаблонов будет возможно на странице [заявки](../../slushateli/zayavki/sposoby-sozdaniya-zayavok.md).\
 
 
-<figure><img src="../../.gitbook/assets/image (47).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (47).png" alt=""><figcaption></figcaption></figure>
 
 ***
 

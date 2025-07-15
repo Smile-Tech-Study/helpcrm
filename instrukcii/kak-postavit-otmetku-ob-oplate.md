@@ -4,11 +4,11 @@
 
 &#x20;
 
-<figure><img src="../.gitbook/assets/image (37).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (37).png" alt=""><figcaption></figcaption></figure>
 
 Статус оплаты у заявки автоматически меняется на “Оплачено”. Кнопка “Изменить” и возможность редактировать стоимость обучения заблокируются. При смене этапа заявки “Требуется оплатить” на следующий этап в заявке фиксируются данные о платеже, которые можно просмотреть в модальном окне “Информация по оплате обучения” по клику на иконку “Информация”, которая появляется рядом со статусом оплаты обучения.
 
-<figure><img src="../.gitbook/assets/image (38).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (38).png" alt=""><figcaption></figcaption></figure>
 
 :::info
 
@@ -18,4 +18,4 @@
 
 После смены статуса на "Оплачено", при повторной попытке смены этого статуса, в модальном окне будет кнопка с возможностью произвести "Возврат средств".
 
-<figure><img src="../.gitbook/assets/image (159).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (159).png" alt=""><figcaption></figcaption></figure>

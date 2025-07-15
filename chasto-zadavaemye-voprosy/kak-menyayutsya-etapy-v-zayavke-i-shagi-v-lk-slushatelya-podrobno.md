@@ -25,7 +25,7 @@ description: >-
 9. Отправка оригиналов документов
 10. Зачисление
 
-<figure><img src="../.gitbook/assets/image (132).png" alt="" width="272"><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (132).png" alt="" width="272"><figcaption></figcaption></figure>
 
 #### 2. Если у организации **несколько групп шаблонов**, **включена генерация договора со слушателем,** а у выбранной слушателем программы тип обучения **“с получением сертификата”** , то порядок шагов и этапов следующий:
 
@@ -40,7 +40,7 @@ description: >-
 9. Отправка оригиналов документов
 10. Зачисление
 
-<figure><img src="../.gitbook/assets/image (133).png" alt="" width="278"><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (133).png" alt="" width="278"><figcaption></figcaption></figure>
 
 #### 3. Если у организации **одна групп шаблонов**, а у выбранной слушателем программы тип обучения **“с получением сертификата”**, то порядок шагов и этапов следующий:
 
@@ -54,7 +54,7 @@ description: >-
 8. Отправка оригиналов документов
 9. Зачисление
 
-<figure><img src="../.gitbook/assets/image (134).png" alt="" width="281"><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (134).png" alt="" width="281"><figcaption></figcaption></figure>
 
 #### 4. Если у организации **одна группа шаблонов**, **включена генерация договора со слушателем,** а у выбранной слушателем программы тип обучения **“с получением сертификата”** , то порядок шагов и этапов следующий:
 
@@ -68,7 +68,7 @@ description: >-
 8. Отправка оригиналов документов
 9. Зачисление
 
-<figure><img src="../.gitbook/assets/image (135).png" alt="" width="279"><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (135).png" alt="" width="279"><figcaption></figcaption></figure>
 
 :::info
 
@@ -91,7 +91,7 @@ description: >-
 11. Отправка оригиналов документов
 12. Зачисление
 
-<figure><img src="../.gitbook/assets/image (140).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (140).png" alt=""><figcaption></figcaption></figure>
 
 #### 6. Если у организации **несколько групп шаблонов**, **включена генерация договора со слушателем,** а у выбранной слушателем программы тип обучения **“с получением документа о квалификации”,** то порядок шагов и этапов следующий:
 
@@ -108,7 +108,7 @@ description: >-
 11. Отправка оригиналов документов
 12. Зачисление
 
-<figure><img src="../.gitbook/assets/image (149).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (149).png" alt=""><figcaption></figcaption></figure>
 
 #### 7. Если у организации **одна группа шаблонов**, а у выбранной слушателем программы тип обучения **“с получением документа о квалификации”**, то порядок шагов и этапов следующий:
 
@@ -124,7 +124,7 @@ description: >-
 10. Отправка оригиналов документов
 11. Зачисление
 
-<figure><img src="../.gitbook/assets/image (138).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (138).png" alt=""><figcaption></figcaption></figure>
 
 #### 8. Если у организации **одна группа шаблонов**, **включена генерация договора со слушателем,** а у выбранной слушателем программы тип обучения **“с получением документа о квалификации”,** то порядок шагов и этапов следующий:
 
@@ -140,4 +140,4 @@ description: >-
 10. Отправка оригиналов документов
 11. Зачисление
 
-<figure><img src="../.gitbook/assets/image (150).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (150).png" alt=""><figcaption></figcaption></figure>

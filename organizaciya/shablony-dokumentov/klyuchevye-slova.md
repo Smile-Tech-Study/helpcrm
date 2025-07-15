@@ -7,8 +7,8 @@
 
 Для того чтобы корректно подготовить шаблоны для дальнейшей генерации по нему документов для слушателей, необходимо  по тексту вашего файла (файл должен быть в формате .docx)  копировать из Flow и затем вставлять ключевые слова.
 
-<figure><img src="../../.gitbook/assets/image (48).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (48).png" alt=""><figcaption></figcaption></figure>
 
 Чтобы посмотреть весь набор ключевых слов, которые можно использовать при создании шаблона, воспользуйтесь кнопкой "Экспорт в эксель".
 
-<figure><img src="../../.gitbook/assets/image (90).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (90).png" alt=""><figcaption></figcaption></figure>

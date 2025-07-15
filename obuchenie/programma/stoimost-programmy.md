@@ -6,11 +6,11 @@
 
 Сразу после создания Программы будет предложено заполнить Стоимость
 
-<figure><img src="../../.gitbook/assets/image (147).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (147).png" alt=""><figcaption></figcaption></figure>
 
 Добавить стоимость можно на странице программы. У стоимости может быть период действия. То есть в одной программе одна стоимость может действовать с 1-го по 29 феврала, а другая стоимость с 1-го марта, в этом случае необходимо создать 2 стоимости.
 
-<figure><img src="../../.gitbook/assets/image (84).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (84).png" alt=""><figcaption></figcaption></figure>
 
 :::info
 
@@ -22,4 +22,4 @@
 
 Если в программе добавлена определенная стоимость/стоимости, то в зависимости от дат действия  эта стоимость будет автоматически  подставлена в заявку, но по кнопке "Редактировать" можно изменить стоимость для одной конкретной заявки.
 
-<figure><img src="../../.gitbook/assets/image (148).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (148).png" alt=""><figcaption></figcaption></figure>

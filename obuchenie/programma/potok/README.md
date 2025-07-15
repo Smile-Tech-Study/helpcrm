@@ -8,27 +8,27 @@ description: Поток - это период обучения по програ
 
 Создать поток во Flow можно со страницы карточки программы в блоке "Основное" по кнопке "Создать поток".&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+![](<../../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
 После создания потока будущий слушатель при записи на программу сможет выбрать этот поток при записи на обучение. Увидеть все потоки организации можно в меню "Обучение" - "Потоки".
 
-<figure><img src="../../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+![](<../../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
 ## Архивация/удаление потока
 
 Поток можно отправить или в архив или удалить. Для этого на странице потока есть соответствующие кнопки.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+![](<../../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
 При нажатии на кнопку "Отправить в архив" показывается предупреждение:
 
-<figure><img src="../../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+![](<../../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
 После архивации потока вместо кнопки "Отправить в архив" появляется кнопка "Восстановить из архива" и будет возможность восстановить поток.&#x20;
 
 При нажатии на кнопку "Удалить" тоже показывается предупреждение, и после удаления поток перестанет отображаться в списке потоков во Flow и Odin (если есть синхронизация с Odin).
 
-<figure><img src="../../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+![](<../../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
 
 При выборе потока на шаге в ЛК "Выбор периода" в выпадающем списке архивные потоки не отображаются.
 
@@ -55,8 +55,8 @@ description: Поток - это период обучения по програ
 
 Сделать это можно по кнопке "Изменить" рядом с потоком.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+![](<../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 Далее можно выбрать необходимый поток, а также отметить, требуется ли перегенерация ДЗС.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (182).png" alt=""><figcaption></figcaption></figure>
+![](<../../../.gitbook/assets/image (182).png" alt=""><figcaption></figcaption></figure>
