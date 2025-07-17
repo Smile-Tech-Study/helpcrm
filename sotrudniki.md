@@ -1,4 +1,7 @@
-# Сотрудники
+---
+title: Сотрудники
+order: 0.138206
+---
 
 ### Представитель организации
 
@@ -6,10 +9,13 @@
 
 Пользователь с данной ролью может:
 
-* добавлять [программы](obuchenie/programma/)
-* создавать [заявки](slushateli/zayavki/sposoby-sozdaniya-zayavok.md)
-* проверять [документы слушателей](slushateli/zayavki/etapy-raboty-s-zayavkoi.md)
-* просматривать дашборд на главной странице
+-  добавлять [программы](./obuchenie/README/_index)
+
+-  создавать [заявки](./slushateli/README/sposoby-sozdaniya-zayavok)
+
+-  проверять [документы слушателей](./slushateli/README/etapy-raboty-s-zayavkoi)
+
+-  просматривать дашборд на главной странице
 
 ![](<.gitbook/assets/image (156).png>)
 
@@ -19,12 +25,12 @@
 
 ### Как зарегистрировать сотрудника?
 
-Первый сотрудник организации регистрируется при подаче заяки на сайте  [https://web.flow-crm.study/Registrations](https://web.flow-crm.study/Registrations). \
+Первый сотрудник организации регистрируется при подаче заявки на сайте  <https://web.flow-crm.study/Registrations>. \
 Далее сотрудников следует добавить через Сотрудники - Добавить
 
 ![](<.gitbook/assets/image (56).png>)
 
 Сотруднику придет письмо с почты info@flow-crm.study на установку пароля. Его логин - адрес электронной почты, который был указан при регистрации пользователя. \
-Ссылка для входа [https://web.flow-crm.study/](https://web.flow-crm.study/)
+Ссылка для входа <https://web.flow-crm.study/>
 
 ![](<.gitbook/assets/image (55).png>)
