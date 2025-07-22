@@ -1,3 +1,29 @@
-title: Flow_CRM_help
+title: Flow_CRM справка по системе
 optionalCategoryIndex: true
 supportedLanguages: []
+properties: []
+link:
+  name: Flow_CRM_help
+  pathname: github.com/Smile-Tech-Study/Flow_CRM_help/main/-
+  lastVisited: github.com/Smile-Tech-Study/Flow_CRM_help/main/-/SUMMARY
+  logo: null
+  title: "Flow_CRM "
+  query: {}
+  group: null
+  code: ""
+  style: null
+  description: null
+  order: 999999
+  isCloning: false
+  cloneCancelDisabled: false
+  redirectOnClone: null
+relatedLinks: []
+name: Flow_CRM_help
+repositoryName: Flow_CRM_help
+sourceName: github.com
+userInfo:
+  mail: kitlove51@list.ru
+  name: LyubovAsseyeva
+  id: kitlove51@list.ru
+logo: flow-com-logo (1).svg
+logo_dark: flow-com-logo (1).svg
