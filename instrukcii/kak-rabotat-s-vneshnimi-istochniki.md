@@ -67,6 +67,12 @@ title: Как работать с внешними источниками?
 
 ![](./kak-rabotat-s-vneshnimi-istochniki-3.png){width=812px height=370px}
 
+Добавленные ранее источники можно удалять. Перед удалением высветится предупреждение.
+
+![](./kak-rabotat-s-vneshnimi-istochniki-4.png){width=596px height=275px}
+
+
+
 [/tab]
 
 [tab]
