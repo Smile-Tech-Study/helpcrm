@@ -19,15 +19,15 @@ order: 0.1
 
    -  [Шаблоны документов](./README-2/README-2-2/_index)
 
-      -  [Создание собственных шаблонов](organizaciya/shablony-dokumentov/sozdanie-sobstvennykh-shablonov)
+      -  [Создание собственных шаблонов](./README-2/README-2-2/sozdanie-sobstvennykh-shablonov)
 
       -  [Префикс организации для генерируемых документов](organizaciya/shablony-dokumentov/prefiks-organizacii-dlya-generiruemykh-dokumentov)
 
-      -  [Ключевые слова](organizaciya/shablony-dokumentov/klyuchevye-slova)
+      -  [Ключевые слова](./README-2/README-2-2/klyuchevye-slova)
 
-   -  [Дополнительные документы и поля ввода данных](organizaciya/dopolnitelnye-dokumenty-i-polya-vvoda-dannykh)
+   -  [Дополнительные документы и поля ввода данных](./README-2/dopolnitelnye-dokumenty-i-polya-vvoda-dannykh/_index)
 
-   -  [Как войти с Яндекс.Ключом](organizaciya/kak-voiti-s-yandeks.klyuchom)
+   -  [Как войти с Яндекс.Ключом](./README-2/kak-voiti-s-yandeks.klyuchom)
 
 -  [Сотрудники](./sotrudniki)
 
