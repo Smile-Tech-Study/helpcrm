@@ -35,7 +35,7 @@ order: 0.1
 
 -  [Программа](./obuchenie/README/_index)
 
-   -  [Стоимость программы](obuchenie/programma/stoimost-programmy)
+   -  [Стоимость программы](./obuchenie/README/stoimost-programmy)
 
    -  [Дополнительные поля и файлы](./obuchenie/README/dopolnitelnye-polya-i-faily)
 
@@ -53,17 +53,17 @@ order: 0.1
 
 ## Слушатели
 
--  [Заявки](slushateli/zayavki/README)
+-  [Заявки](./slushateli/README/_index)
 
-   -  [Способы создания заявок](slushateli/zayavki/sposoby-sozdaniya-zayavok)
+   -  [Способы создания заявок](./slushateli/README/sposoby-sozdaniya-zayavok/_index)
 
-   -  [Этапы работы с заявкой](slushateli/zayavki/etapy-raboty-s-zayavkoi)
+   -  [Этапы работы с заявкой](./slushateli/README/etapy-raboty-s-zayavkoi)
 
-   -  [Генерация договоров со слушателями](slushateli/zayavki/generaciya-dogovorov-so-slushatelyami)
+   -  [Генерация договоров со слушателями](./slushateli/README/generaciya-dogovorov-so-slushatelyami)
 
-   -  [Завершение обучения](slushateli/zayavki/zavershenie-obucheniya)
+   -  [Завершение обучения](./slushateli/README/zavershenie-obucheniya)
 
-   -  [Слушатели.Краткое руководство](https://informa.gitbook.io/flow.-lichnyi-kabinet-slushatelya)
+   -  [Слушатели.Краткое руководство](https://www.flow-crm.study/helpcrmstud)
 
 -  [Импорт](./slushateli/import)
 
@@ -83,11 +83,11 @@ order: 0.1
 
 ---
 
--  [Как работать с дополнительными полями?](kak-rabotat-s-dopolnitelnymi-polyami)
+-  [Как работать с дополнительными полями?](./instrukcii/kak-rabotat-s-dopolnitelnymi-polyami/_index)
 
--  [Как работать с внешними источники?](kak-rabotat-s-vneshnimi-istochniki)
+-  [Как работать с внешними источниками?](./instrukcii/kak-rabotat-s-vneshnimi-istochniki)
 
--  [Как сделать рассылку?](kak-sdelat-rassylku)
+-  [Как сделать рассылку?](./instrukcii/kak-sdelat-rassylku)
 
 ## Часто задаваемые вопросы
 
