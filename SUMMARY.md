@@ -33,23 +33,23 @@ order: 0.1
 
 ## Обучение
 
--  [Программа](obuchenie/programma/README)
+-  [Программа](./obuchenie/README/_index)
 
    -  [Стоимость программы](obuchenie/programma/stoimost-programmy)
 
-   -  [Дополнительные поля и файлы](obuchenie/programma/dopolnitelnye-polya-i-faily)
+   -  [Дополнительные поля и файлы](./obuchenie/README/dopolnitelnye-polya-i-faily)
 
-   -  [Поток](obuchenie/programma/potok/README)
+   -  [Поток](./obuchenie/README/README/_index)
 
-      -  [Экспорт для ФИС ФРДО](obuchenie/programma/potok/eksport-dlya-fis-frdo)
+      -  [Экспорт для ФИС ФРДО](./obuchenie/README/README/eksport-dlya-fis-frdo)
 
-   -  [Выгрузка для ЦЗН](obuchenie/programma/vygruzka-dlya-czn)
+   -  [Выгрузка для ЦЗН](./obuchenie/README/vygruzka-dlya-czn)
 
--  [Приказы](obuchenie/prikazy/README)
+-  [Приказы](./obuchenie/README-3/_index)
 
-   -  [Добавление приказов вручную](obuchenie/prikazy/dobavlenie-prikazov-vruchnuyu)
+   -  [Добавление приказов вручную](./obuchenie/README-3/dobavlenie-prikazov-vruchnuyu)
 
-   -  [Автоматический выпуск](obuchenie/prikazy/avtomaticheskii-vypusk)
+   -  [Автоматический выпуск](./obuchenie/README-3/avtomaticheskii-vypusk)
 
 ## Слушатели
 
