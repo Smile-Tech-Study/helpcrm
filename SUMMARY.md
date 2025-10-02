@@ -21,7 +21,7 @@ order: 0.1
 
       -  [Создание собственных шаблонов](./README-2/README-2-2/sozdanie-sobstvennykh-shablonov)
 
-      -  [Префикс организации для генерируемых документов](organizaciya/shablony-dokumentov/prefiks-organizacii-dlya-generiruemykh-dokumentov)
+      -  [Префикс организации для генерируемых документов](./README-2/README-2-2/prefiks-organizacii-dlya-generiruemykh-dokumentov/_index)
 
       -  [Ключевые слова](./README-2/README-2-2/klyuchevye-slova)
 
