@@ -89,7 +89,7 @@ order: 0.1
 
 -  [Как сделать рассылку?](./instrukcii/kak-sdelat-rassylku)
 
-## Часто задаваемые вопросы
+## Часто з[адаваемые]() вопросы
 
 -  [Как отклонить заявку?](./chasto-zadavaemye-voprosy/kak-otklonit-zayavku)
 
