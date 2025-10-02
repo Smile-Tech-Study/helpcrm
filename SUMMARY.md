@@ -5,19 +5,19 @@ order: 0.1
 
 -  [Быстрый старт](./README)
 
--  [Организация](organizaciya/README)
+-  [Организация](./README-2/_index)
 
-   -  [Создание организации](organizaciya/sozdanie-organizacii)
+   -  [Создание организации](./README-2/sozdanie-organizacii)
 
-   -  [Подписанты](organizaciya/podpisanty)
+   -  [Подписанты](./README-2/podpisanty)
 
-   -  [Токен организации](organizaciya/token-organizacii/README)
+   -  [Токен организации](./README-2/README-2/_index)
 
-      -  [Форма сбора заявок на сайте организации](organizaciya/token-organizacii/forma-sbora-zayavok-na-saite-organizacii)
+      -  [Форма сбора заявок на сайте организации](./README-2/README-2/forma-sbora-zayavok-na-saite-organizacii)
 
-      -  [Форма сбора заявок на примере Tilda](organizaciya/token-organizacii/forma-sbora-zayavok-na-primere-tilda)
+      -  [Форма сбора заявок на примере Tilda](./README-2/README-2/forma-sbora-zayavok-na-primere-tilda/_index)
 
-   -  [Шаблоны документов](organizaciya/shablony-dokumentov/README)
+   -  [Шаблоны документов](./README-2/README-2-2/_index)
 
       -  [Создание собственных шаблонов](organizaciya/shablony-dokumentov/sozdanie-sobstvennykh-shablonov)
 
@@ -79,7 +79,7 @@ order: 0.1
 
 -  [Как поставить отметку об оплате?](./instrukcii/kak-postavit-otmetku-ob-oplate)
 
--  [Как работать с тегами в заявках?](instrukcii/kak-rabotat-s-tegami-v-zayavkakh)
+-  [Как работать с тегами в заявках?](./instrukcii/kak-rabotat-s-tegami-v-zayavkakh/_index)
 
 ---
 
