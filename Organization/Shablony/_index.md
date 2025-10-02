@@ -31,4 +31,4 @@ order: 3.1
 
 Каждый шаблон можно редактировать под себя, используя [ключевые слова](./klyuchevye-slova).
 
-[Создание собственных шаблонов -->](./sozdanie-sobstvennykh-shablonov) 
+[Создание собственных шаблонов -->](./sozdanie-sobstvennykh-shablonov)
