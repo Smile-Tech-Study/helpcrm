@@ -3,53 +3,53 @@ title: Содержание
 order: 0.1
 ---
 
--  [Быстрый старт](./README)
+-  [Быстрый старт](./Start)
 
--  [Организация](./README-2/_index)
+-  [Организация](./Organization/_index)
 
-   -  [Создание организации](./README-2/sozdanie-organizacii)
+   -  [Создание организации](./Organization/sozdanie-organizacii)
 
-   -  [Подписанты](./README-2/podpisanty)
+   -  [Подписанты](./Organization/podpisanty)
 
-   -  [Токен организации](./README-2/README-2/_index)
+   -  [Токен организации](./Organization/Token/_index)
 
-      -  [Форма сбора заявок на сайте организации](./README-2/README-2/forma-sbora-zayavok-na-saite-organizacii)
+      -  [Форма сбора заявок на сайте организации](./Organization/Token/forma-sbora-zayavok-na-saite-organizacii)
 
-      -  [Форма сбора заявок на примере Tilda](./README-2/README-2/forma-sbora-zayavok-na-primere-tilda/_index)
+      -  [Форма сбора заявок на примере Tilda](./Organization/Token/forma-sbora-zayavok-na-primere-tilda/_index)
 
-   -  [Шаблоны документов](./README-2/README-2-2/_index)
+   -  [Шаблоны документов](./Organization/Shablony/_index)
 
-      -  [Создание собственных шаблонов](./README-2/README-2-2/sozdanie-sobstvennykh-shablonov)
+      -  [Создание собственных шаблонов](./Organization/Shablony/sozdanie-sobstvennykh-shablonov)
 
-      -  [Префикс организации для генерируемых документов](./README-2/README-2-2/prefiks-organizacii-dlya-generiruemykh-dokumentov/_index)
+      -  [Префикс организации для генерируемых документов](./Organization/Shablony/prefiks-organizacii-dlya-generiruemykh-dokumentov/_index)
 
-      -  [Ключевые слова](./README-2/README-2-2/klyuchevye-slova)
+      -  [Ключевые слова](./Organization/Shablony/klyuchevye-slova)
 
-   -  [Дополнительные документы и поля ввода данных](./README-2/dopolnitelnye-dokumenty-i-polya-vvoda-dannykh/_index)
+   -  [Дополнительные документы и поля ввода данных](./Organization/dopolnitelnye-dokumenty-i-polya-vvoda-dannykh/_index)
 
-   -  [Как войти с Яндекс.Ключом](./README-2/kak-voiti-s-yandeks.klyuchom)
+   -  [Как войти с Яндекс.Ключом](./Organization/kak-voiti-s-yandeks.klyuchom)
 
 -  [Сотрудники](./sotrudniki)
 
 ## Обучение
 
--  [Программа](./obuchenie/README/_index)
+-  [Программа](./obuchenie/Programma/_index)
 
-   -  [Стоимость программы](./obuchenie/README/stoimost-programmy)
+   -  [Стоимость программы](./obuchenie/Programma/stoimost-programmy)
 
-   -  [Дополнительные поля и файлы](./obuchenie/README/dopolnitelnye-polya-i-faily)
+   -  [Дополнительные поля и файлы](./obuchenie/Programma/dopolnitelnye-polya-i-faily)
 
-   -  [Поток](./obuchenie/README/README/_index)
+   -  [Поток](./obuchenie/Programma/Potok/_index)
 
-      -  [Экспорт для ФИС ФРДО](./obuchenie/README/README/eksport-dlya-fis-frdo)
+      -  [Экспорт для ФИС ФРДО](./obuchenie/Programma/Potok/eksport-dlya-fis-frdo)
 
-   -  [Выгрузка для ЦЗН](./obuchenie/README/vygruzka-dlya-czn)
+   -  [Выгрузка для ЦЗН](./obuchenie/Programma/vygruzka-dlya-czn)
 
--  [Приказы](./obuchenie/README-3/_index)
+-  [Приказы](./obuchenie/prikaz/_index)
 
-   -  [Добавление приказов вручную](./obuchenie/README-3/dobavlenie-prikazov-vruchnuyu)
+   -  [Добавление приказов вручную](./obuchenie/prikaz/dobavlenie-prikazov-vruchnuyu)
 
-   -  [Автоматический выпуск](./obuchenie/README-3/avtomaticheskii-vypusk)
+   -  [Автоматический выпуск](./obuchenie/prikaz/avtomaticheskii-vypusk)
 
 ## Слушатели
 
@@ -89,7 +89,7 @@ order: 0.1
 
 -  [Как сделать рассылку?](./instrukcii/kak-sdelat-rassylku)
 
-## Часто з[адаваемые]() вопросы
+## Часто задаваемые вопросы
 
 -  [Как отклонить заявку?](./chasto-zadavaemye-voprosy/kak-otklonit-zayavku)
 
