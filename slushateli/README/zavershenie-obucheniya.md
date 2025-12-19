@@ -34,7 +34,9 @@ order: 1.5
 
 ![](./zavershenie-obucheniya-2.jpeg){width=788px height=464px}
 
+Для статуса "Не завершил обучение» доступна резолюция "Отчислен за неуспеваемость».
 
+![](./zavershenie-obucheniya-2.png){width=316px height=189px}
 
 [/tab]
 

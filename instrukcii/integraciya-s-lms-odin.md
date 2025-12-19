@@ -109,3 +109,5 @@ title: Интеграция с LMS Odin
 При таком сравнении будет понятно, что Активная заявка слушателя во Flow еще не записана на поток в Odin.
 
 ![](./integraciya-s-lms-odin.png){width=174px height=213px}
+
+
