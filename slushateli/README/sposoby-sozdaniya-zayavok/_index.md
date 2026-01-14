@@ -40,7 +40,7 @@ title: Способы создания заявок
 
 На странице создания заявки заполнить все необходимые данные.
 
-![](./sposoby-sozdaniya-zayavok.png){width=3342px height=1750px}
+![](./sposoby-sozdaniya-zayavok.png){width=1968px height=1656px}
 
 Внизу страницы снова нажать «Создать заявку».
 
