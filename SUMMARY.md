@@ -27,7 +27,7 @@ order: 0.1
 
    -  [Дополнительные документы и поля ввода данных](./Organization/dopolnitelnye-dokumenty-i-polya-vvoda-dannykh/_index)
 
-   -  [Как войти с Яндекс.Ключом](./Organization/kak-voiti-s-yandeks.klyuchom)
+   -  [Как войти с Яндекс ID](https://www.flow-crm.study/helpcrm/Organization/kak-voiti-s-yandeks.klyuchom)
 
 -  [Сотрудники](./sotrudniki)
 
