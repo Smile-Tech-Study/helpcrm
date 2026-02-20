@@ -73,7 +73,7 @@ order: 0.1
 
 ## ИНСТРУКЦИИ
 
--  [Интеграция с LMS Odin](./instrukcii/integraciya-s-lms-odin)
+-  [Интеграция с LMS Odin](./integracii/integraciya-s-lms-odin)
 
 -  [Как происходит онлайн-оплата?](./instrukcii/kak-proiskhodit-onlain-oplata)
 
