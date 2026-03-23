@@ -27,7 +27,7 @@ order: 0.1
 
    -  [Дополнительные документы и поля ввода данных](./Organization/dopolnitelnye-dokumenty-i-polya-vvoda-dannykh/_index)
 
-   -  [Как войти с Яндекс ID](https://www.flow-crm.study/helpcrm/Organization/kak-voiti-s-yandeks.klyuchom)
+   -  [Как войти с Яндекс ID](./Organization/kak-voiti-s-yandeks.klyuchom)
 
 -  [Сотрудники](./sotrudniki)
 
@@ -53,15 +53,15 @@ order: 0.1
 
 ## Слушатели
 
--  [Заявки](./slushateli/README/_index)
+-  [Заявки](./slushateli/zayavki/_index)
 
-   -  [Способы создания заявок](./slushateli/README/sposoby-sozdaniya-zayavok/_index)
+   -  [Способы создания заявок](./slushateli/zayavki/sposoby-sozdaniya-zayavok/_index)
 
-   -  [Этапы работы с заявкой](./slushateli/README/etapy-raboty-s-zayavkoi)
+   -  [Этапы работы с заявкой](./slushateli/zayavki/etapy-raboty-s-zayavkoi)
 
-   -  [Генерация договоров со слушателями](./slushateli/README/generaciya-dogovorov-so-slushatelyami)
+   -  [Генерация договоров со слушателями](./slushateli/zayavki/generaciya-dogovorov-so-slushatelyami)
 
-   -  [Завершение обучения](./slushateli/README/zavershenie-obucheniya)
+   -  [Завершение обучения](./slushateli/zayavki/zavershenie-obucheniya)
 
    -  [Слушатели.Краткое руководство](https://www.flow-crm.study/helpcrmstud)
 
