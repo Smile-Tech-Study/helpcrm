@@ -21,6 +21,6 @@ title: Быстрый старт
 
 * [x] Добавьте [потоки](./obuchenie/Programma/Potok/_index)
 
-* [x] Работайте с [заявками](./slushateli/README/_index)
+* [x] Работайте с [заявками](./slushateli/zayavki/_index)
 
 * [x] Завершите обучение
