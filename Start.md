@@ -7,7 +7,7 @@ title: Быстрый старт
 
 * [x] Подключите [эквайринг](./instrukcii/kak-proiskhodit-onlain-oplata) при необходимости
 
-* [x] Добавьте [сотрудников](./sotrudniki) и [назначьте им роли](./roli/naznachenie-rolei)
+* [x] Добавьте [сотрудников](./sotrudniki) и [назначьте им роли](./chasto-zadavaemye-voprosy/kakie-roli-dostupny-vo-flow-crm)
 
 * [x] Получите [токен](./Organization/Token/_index) для возможности создания заявок и работы с ними
 
