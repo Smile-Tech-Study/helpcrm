@@ -5,7 +5,6 @@ order: 0.1
 
 [html]
 
-
 <!DOCTYPE html>
 <html lang="ru">
 <head>
@@ -119,71 +118,6 @@ order: 0.1
     </div>
     <h1>Заявки, документы, зачисление — в одной системе</h1>
     <p>Flow помогает образовательным организациям вести слушателей от подачи заявки до выдачи документа. Онлайн-заявки, генерация договоров и приказов, интеграция с LMS Odin.</p>
-  </div>
-
-  <!-- CTA -->
-  <div class="cta-row">
-    <a class="btn-p" href="https://www.flow-crm.study/helpcrm/Start">Быстрый старт →</a>
-  </div>
-
-
-  <!-- ФУНКЦИОНАЛ -->
-  <p class="sec-label">Функционал</p>
-  <div class="feat-grid">
-    <a class="feat" href="#">
-      <div class="feat-icon" style="background:#E1F5EE"><svg width="16" height="16" viewBox="0 0 16 16" fill="none"><rect x="2" y="1" width="12" height="14" rx="2" stroke="#0F6E56" stroke-width="1.3"/><path d="M5 6h6M5 9h4" stroke="#0F6E56" stroke-width="1.3" stroke-linecap="round"/></svg></div>
-      <h4>Управление заявками</h4><p>Онлайн-анкета, этапы, 30+ фильтров, теги, комментарии</p>
-    </a>
-    <a class="feat" href="#">
-      <div class="feat-icon" style="background:#EEEDFE"><svg width="16" height="16" viewBox="0 0 16 16" fill="none"><path d="M3 2h7l3 3v9a1 1 0 01-1 1H3a1 1 0 01-1-1V3a1 1 0 011-1z" stroke="#534AB7" stroke-width="1.3"/><path d="M10 2v3h3" stroke="#534AB7" stroke-width="1.3" stroke-linejoin="round"/><path d="M5 8h6M5 11h4" stroke="#534AB7" stroke-width="1.3" stroke-linecap="round"/></svg></div>
-      <h4>Генерация документов</h4><p>Заявления, договоры, приказы по шаблонам с подстановкой данных</p>
-    </a>
-    <a class="feat" href="#">
-      <div class="feat-icon" style="background:#FAEEDA"><svg width="16" height="16" viewBox="0 0 16 16" fill="none"><circle cx="8" cy="5" r="3" stroke="#854F0B" stroke-width="1.3"/><path d="M2 14c0-3 2.7-5 6-5s6 2 6 5" stroke="#854F0B" stroke-width="1.3" stroke-linecap="round"/></svg></div>
-      <h4>Личный кабинет</h4><p>Слушатель сам загружает документы и отслеживает этапы</p>
-    </a>
-    <a class="feat" href="#">
-      <div class="feat-icon" style="background:#FAECE7"><svg width="16" height="16" viewBox="0 0 16 16" fill="none"><path d="M8 2v12M2 8h12" stroke="#993C1D" stroke-width="1.3" stroke-linecap="round"/></svg></div>
-      <h4>Приказы</h4><p>Автоматический выпуск приказов на зачисление и отчисление</p>
-    </a>
-    <a class="feat" href="#">
-      <div class="feat-icon" style="background:#EAF3DE"><svg width="16" height="16" viewBox="0 0 16 16" fill="none"><circle cx="4" cy="8" r="2" stroke="#3B6D11" stroke-width="1.3"/><circle cx="12" cy="4" r="2" stroke="#3B6D11" stroke-width="1.3"/><circle cx="12" cy="12" r="2" stroke="#3B6D11" stroke-width="1.3"/><path d="M6 7.2l4-2.5M6 8.8l4 2.5" stroke="#3B6D11" stroke-width="1.3" stroke-linecap="round"/></svg></div>
-      <h4>Интеграция с Odin</h4><p>Профиль в LMS, статус прохождения, данные для приказов</p>
-    </a>
-    <a class="feat" href="#">
-      <div class="feat-icon" style="background:#E6F1FB"><svg width="16" height="16" viewBox="0 0 16 16" fill="none"><rect x="1" y="4" width="14" height="9" rx="2" stroke="#185FA5" stroke-width="1.3"/><path d="M1 7h14" stroke="#185FA5" stroke-width="1.3"/></svg></div>
-      <h4>Эквайринг</h4><p>Онлайн-оплата, фискализация чеков, учёт платежей</p>
-    </a>
-  </div>
-
-
-
-  <!-- КАК РАБОТАЕТ -->
-  <p class="sec-label">Как работает Flow</p>
-  <div class="flow-wrap">
-    <div class="flow-steps">
-      <a class="fstep" href="#"><div class="fstep-n">1</div><div class="fstep-l">Организация</div><div class="fstep-s">Шаблоны, подписанты</div></a>
-      <a class="fstep" href="#"><div class="fstep-n">2</div><div class="fstep-l">Программа</div><div class="fstep-s">Тип, стоимость</div></a>
-      <a class="fstep" href="#"><div class="fstep-n">3</div><div class="fstep-l">Поток</div><div class="fstep-s">Период, ФИС ФРДО</div></a>
-      <a class="fstep" href="#"><div class="fstep-n">4</div><div class="fstep-l">Заявка</div><div class="fstep-s">Лендинг, импорт</div></a>
-      <a class="fstep" href="#"><div class="fstep-n">5</div><div class="fstep-l">ЛК слушателя</div><div class="fstep-s">Документы, оплата</div></a>
-      <a class="fstep" href="#"><div class="fstep-n">6</div><div class="fstep-l">Приказ</div><div class="fstep-s">Зачисление, Отчисление, Загрузка итогового документа</div></a>
-    </div>
-  </div>
-
-  <!-- ИНСТРУКЦИИ -->
-  <p class="sec-label">Инструкции</p>
-  <div class="links-grid">
-    <a class="lnk" href="https://www.flow-crm.study/helpcrm/instrukcii/kak-rabotat-s-vneshnimi-istochniki"><div class="lnk-dot" style="background:#3DCFCA"></div><span>Внешние источники</span></a>
-    <a class="lnk" href="https://www.flow-crm.study/helpcrm/instrukcii/kak-rabotat-s-dopolnitelnymi-polyami"><div class="lnk-dot" style="background:#7F77DD"></div><span>Дополнительные поля</span></a>
-    <a class="lnk" href="#"><div class="lnk-dot" style="background:#7F77DD"></div><span>Дополнительные документы</span></a>
-    <a class="lnk" href="https://www.flow-crm.study/helpcrm/instrukcii/kak-sdelat-rassylku"><div class="lnk-dot" style="background:#EF9F27"></div><span>Рассылки</span></a>
-    <a class="lnk" href="https://www.flow-crm.study/helpcrm/slushateli/import"><div class="lnk-dot" style="background:#378ADD"></div><span>Импорт данных</span></a>
-    <a class="lnk" href="https://www.flow-crm.study/helpcrm/integracii"><div class="lnk-dot" style="background:#639922"></div><span>Интеграция</span></a>
-    <a class="lnk" href="https://www.flow-crm.study/helpcrm/instrukcii/kak-proiskhodit-onlain-oplata"><div class="lnk-dot" style="background:#378ADD"></div><span>Онлайн-оплата</span></a>
-    <a class="lnk" href="https://www.flow-crm.study/helpcrm/instrukcii/kak-sozdavat-tegi"><div class="lnk-dot" style="background:#EF9F27"></div><span>Теги заявок</span></a>
-  </div>
-</div>
 </body>
 </html>
 
