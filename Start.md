@@ -23,4 +23,4 @@ title: Быстрый старт
 
 * [x] Работайте с [заявками](./slushateli/zayavki/_index)
 
-* [x] Завершите обучение
+* [x] [Завершите обучение](./slushateli/zayavki/zavershenie-obucheniya)
