@@ -19,7 +19,7 @@ title: Быстрый старт
 
 * [x] Добавляйте и редактируйте [программы](./obuchenie/Programma/_index), укажите [стоимость](./obuchenie/Programma/stoimost-programmy)
 
-* [x] Добавьте [потоки](./obuchenie/Programma/Potok/_index)
+* [x] Добавьте [потоки](./obuchenie/Potok/_index)
 
 * [x] Работайте с [заявками](./slushateli/zayavki/_index)
 
