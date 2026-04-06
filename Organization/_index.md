@@ -7,10 +7,10 @@ order: 0.112737
 
 В рамках своей организации возможно :
 
--  организовать одно или несколько [подразделений](./sozdanie-organizacii), где будут соответствующие ему/им [программы](./../obuchenie/README/_index) с [потоками](./../obuchenie/README/README/_index) (периодами) обучения;
+-  организовать одно или несколько [подразделений](./sozdanie-organizacii), где будут соответствующие ему/им [программы](./../obuchenie/Programma/_index) с [потоками](./../obuchenie/Potok/_index) (периодами) обучения;
 
--  работать с документами слушателей от [подачи](./../slushateli/README/sposoby-sozdaniya-zayavok) / [создания](./../slushateli/README/sposoby-sozdaniya-zayavok) заявки до выдачи документа по завершении обучения.
+-  работать с документами слушателей от [подачи](./../slushateli/zayavki/sposoby-sozdaniya-zayavok/_index) / [создания](./../slushateli/zayavki/sposoby-sozdaniya-zayavok/_index) заявки до выдачи документа по завершении обучения.
 
--  генерировать [документы по шаблонам](./README-2-2/_index) в автоматическом порядке.
+-  генерировать [документы по шаблонам](./Shablony/_index) в автоматическом порядке.
 
 ![](<./Организация (1) (1).png>)
