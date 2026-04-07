@@ -9,11 +9,11 @@ order: 0.138206
 
 Пользователь с данной ролью может:
 
--  добавлять [программы](./obuchenie/README/_index)
+-  добавлять [программы](./obuchenie/Programma/_index)
 
--  создавать [заявки](./slushateli/README/sposoby-sozdaniya-zayavok)
+-  создавать [заявки](./slushateli/zayavki/sposoby-sozdaniya-zayavok/_index)
 
--  проверять [документы слушателей](./slushateli/README/etapy-raboty-s-zayavkoi)
+-  проверять [документы слушателей](./slushateli/zayavki/etapy-raboty-s-zayavkoi)
 
 -  просматривать дашборд на главной странице
 
