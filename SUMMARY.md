@@ -157,7 +157,7 @@ order: 0.1
 
    -  [Стоимость программы](./obuchenie/Programma/stoimost-programmy)
 
-   -  [Дополнительные поля и файлы](./obuchenie/Programma/dopolnitelnye-polya-i-faily)
+   -  [Дополнительные поля и файлы](./Organization/dopolnitelnye-dokumenty-i-polya-vvoda-dannykh/_index)
 
    -  [Поток](./obuchenie/Potok/_index)
 
@@ -189,7 +189,7 @@ order: 0.1
 
 ## Роли
 
--  [Назначение ролей](./roli/naznachenie-rolei)
+-  [Назначение ролей](./chasto-zadavaemye-voprosy/kakie-roli-dostupny-vo-flow-crm)
 
 ## ИНСТРУКЦИИ
 
