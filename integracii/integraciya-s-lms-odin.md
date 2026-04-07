@@ -1,6 +1,6 @@
 ---
 title: Интеграция с LMS Odin
-order: 0.14985
+order: 0.5
 ---
 
 Во Flow настроена бесшовная интеграция с [LMS Odin](https://www.odin.study/connect), где можно организовать процесс обучения.
