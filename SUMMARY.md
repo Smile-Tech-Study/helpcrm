@@ -156,7 +156,6 @@ order: 0.1
   <div class="sd-start">
     <div class="sd-start-label">Новый пользователь</div>
     <div class="sd-start-title">С чего начать работу во Flow</div>
-    <div class="sd-start-desc">Если вы только подключились — пройдите четыре шага настройки и вы будете готовы принимать заявки.</div>
     <div class="sd-start-links">
       <a class="sd-start-link" href="https://www.flow-crm.study/helpcrm/Start" target="_blank">Быстрый старт →</a>
       <a class="sd-start-link" href="https://www.flow-crm.study/helpcrm/Organization/sozdanie-organizacii" target="_blank">Создание организации</a>
