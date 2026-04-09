@@ -179,8 +179,6 @@ order: 0.1
 
    -  [Этапы работы с заявкой](./slushateli/zayavki/etapy-raboty-s-zayavkoi)
 
-   -  [Генерация договоров со слушателями](./slushateli/zayavki/generaciya-dogovorov-so-slushatelyami)
-
    -  [Завершение обучения](./slushateli/zayavki/zavershenie-obucheniya)
 
    -  [Слушатели.Краткое руководство](https://www.flow-crm.study/helpcrmstud)
@@ -196,8 +194,6 @@ order: 0.1
 -  [Интеграция с LMS Odin](./integracii/integraciya-s-lms-odin)
 
 -  [Как происходит онлайн-оплата?](./instrukcii/kak-proiskhodit-onlain-oplata)
-
--  [Как поставить отметку об оплате?](./instrukcii/kak-postavit-otmetku-ob-oplate)
 
 -  [Как работать с тегами в заявках?](./instrukcii/kak-rabotat-s-tegami-v-zayavkakh/_index)
 
