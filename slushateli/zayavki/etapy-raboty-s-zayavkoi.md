@@ -216,6 +216,8 @@ render();
 
 -  у заявки выбран поток;
 
+-  поток есть в Odin; 
+
 -  у заявки нет профиля в Odin.
 
 ![](./etapy-raboty-s-zayavkoi-3.png){width=2306px height=1094px}
