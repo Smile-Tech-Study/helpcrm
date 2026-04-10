@@ -18,10 +18,10 @@ title: Как меняются этапы в заявке и шаги в ЛК с
 .etz .controls { display: grid; grid-template-columns: 1fr 1fr 1fr 1fr; gap: 12px; margin-bottom: 20px; padding: 16px; background: #F5F5F3; border-radius: 12px; border: 0.5px solid #D3D1C7; }
 @media(max-width:640px){ .etz .controls { grid-template-columns: 1fr 1fr; } }
 .etz .label { font-size: 11px; color: #888780; margin-bottom: 8px; text-transform: uppercase; letter-spacing: .05em; font-weight: 500; }
-.etz .toggle-group { display: flex; gap: 6px; flex-wrap: wrap; }
-.etz .toggle-btn { padding: 6px 14px; border-radius: 12px; border: 1.5px solid #B4B2A9; background: #fff; color: #5F5E5A; cursor: pointer; font-size: 13px; transition: all .15s; font-family: inherit; text-align: left; line-height: 1.3; }
-.etz .toggle-btn.active { background: #1D9E75; border-color: #1D9E75; color: #fff; font-weight: 500; }
-.etz .toggle-btn:hover:not(.active) { background: #F1EFE8; }
+.etz .toggle-group { display: flex; flex-direction: column; gap: 5px; }
+.etz .toggle-btn { padding: 8px 12px; border-radius: 8px; border: 1.5px solid #D3D1C7; background: #fff; color: #5F5E5A; cursor: pointer; font-size: 13px; transition: all .15s; font-family: inherit; text-align: left; line-height: 1.3; box-shadow: 0 1px 3px rgba(0,0,0,.07); }
+.etz .toggle-btn.active { background: #1D9E75; border-color: #1D9E75; color: #fff; font-weight: 500; box-shadow: 0 2px 6px rgba(29,158,117,.25); }
+.etz .toggle-btn:hover:not(.active) { border-color: #B4B2A9; background: #FAFAF8; box-shadow: 0 1px 4px rgba(0,0,0,.12); }
 .etz .legend { display: flex; gap: 14px; flex-wrap: wrap; margin-bottom: 14px; }
 .etz .legend-item { display: flex; align-items: center; gap: 5px; font-size: 12px; color: #5F5E5A; }
 .etz .legend-dot { width: 12px; height: 12px; border-radius: 50%; flex-shrink: 0; }
