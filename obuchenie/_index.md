@@ -5,18 +5,14 @@ title: Обучение
 
 [html]
 
-<p><style>
+<style>
 .ob*{box-sizing:border-box}
 .ob{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;font-size:14px;color:#2C2C2A;padding:8px 0}
 .ob-intro{font-size:14px;color:#5F5E5A;line-height:1.6;margin-bottom:24px}
-.ob-scheme{display:flex;align-items:center;gap:8px;flex-wrap:wrap;margin-bottom:24px;padding:14px 16px;background:#F5F5F3;border-radius:12px;border:0.5px solid #D3D1C7}
-.ob-scheme-item{display:flex;flex-direction:column;align-items:center;gap:4px}
-.ob-scheme-box{padding:6px 14px;border-radius:8px;font-size:12px;font-weight:500;text-align:center;background:#E6F1FB;color:#0C447C;border:0.5px solid #85B7EB}
-.ob-arr{font-size:18px;color:#B4B2A9;margin:0 2px}
 .ob-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:12px}
 @media(max-width:540px){.ob-grid{grid-template-columns:1fr}}
 .ob-card{border:0.5px solid #D3D1C7;border-radius:12px;background:#fff;padding:20px;display:flex;flex-direction:column;gap:10px}
-.ob-card-icon{width:36px;height:36px;border-radius:8px;background:#E6F1FB;display:flex;align-items:center;justify-content:center;flex-shrink:0}
+.ob-card-icon{width:36px;height:36px;border-radius:8px;display:flex;align-items:center;justify-content:center;flex-shrink:0;background:#E6F1FB}
 .ob-card-title{font-size:16px;font-weight:500;color:#2C2C2A}
 .ob-card-desc{font-size:13px;color:#5F5E5A;line-height:1.5;flex:1}
 .ob-card-links{display:flex;flex-direction:column;gap:4px;margin-top:4px}
@@ -27,28 +23,6 @@ title: Обучение
 <div class="ob">
   <div class="ob-intro">
     В этом разделе описана структура учебного процесса во Flow — как организованы программы, потоки и приказы, и как они связаны между собой.
-  </div>
-
-  <div class="ob-scheme">
-    <div class="ob-scheme-item">
-      <div class="ob-scheme-box">Программа</div>
-      <div style="font-size:11px;color:#888780">тип и содержание</div>
-    </div>
-    <div class="ob-arr">→</div>
-    <div class="ob-scheme-item">
-      <div class="ob-scheme-box">Поток</div>
-      <div style="font-size:11px;color:#888780">период и группа</div>
-    </div>
-    <div class="ob-arr">→</div>
-    <div class="ob-scheme-item">
-      <div class="ob-scheme-box">Заявка слушателя</div>
-      <div style="font-size:11px;color:#888780">привязана к потоку</div>
-    </div>
-    <div class="ob-arr">→</div>
-    <div class="ob-scheme-item">
-      <div class="ob-scheme-box">Приказ</div>
-      <div style="font-size:11px;color:#888780">зачисление / отчисление</div>
-    </div>
   </div>
 
   <div class="ob-grid">
@@ -62,6 +36,7 @@ title: Обучение
       <div class="ob-card-desc">Образовательная программа — основа учебного процесса. Содержит тип обучения, уровень образования, стоимость и выдаваемый документ. К программе привязываются потоки и шаблоны документов.</div>
       <div class="ob-card-links">
         <a class="ob-link" href="https://www.flow-crm.study/helpcrm/obuchenie/Programma" target="_blank">Программа →</a>
+        <a class="ob-link" href="https://www.flow-crm.study/helpcrm/obuchenie/Programma/tipy-programm-i-urovni-obrazovaniya" target="_blank">Типы программ и уровни образования →</a>
         <a class="ob-link" href="https://www.flow-crm.study/helpcrm/obuchenie/Programma/stoimost-programmy" target="_blank">Стоимость программы →</a>
       </div>
     </div>
@@ -77,6 +52,7 @@ title: Обучение
       <div class="ob-card-links">
         <a class="ob-link" href="https://www.flow-crm.study/helpcrm/obuchenie/Potok" target="_blank">Поток →</a>
         <a class="ob-link" href="https://www.flow-crm.study/helpcrm/obuchenie/Potok/eksport-dlya-fis-frdo" target="_blank">Экспорт для ФИС ФРДО →</a>
+        <a class="ob-link" href="https://www.flow-crm.study/helpcrm/slushateli/zayavki/zavershenie-obucheniya" target="_blank">Завершение обучения →</a>
       </div>
     </div>
 
@@ -90,10 +66,12 @@ title: Обучение
       <div class="ob-card-desc">Приказы на зачисление и отчисление фиксируют факт начала и завершения обучения. Выпускаются вручную или автоматически — в зависимости от настроек группы шаблонов.</div>
       <div class="ob-card-links">
         <a class="ob-link" href="https://www.flow-crm.study/helpcrm/obuchenie/prikaz" target="_blank">Приказы →</a>
+        <a class="ob-link" href="https://www.flow-crm.study/helpcrm/obuchenie/prikaz/dobavlenie-prikazov-vruchnuyu" target="_blank">Ручной выпуск →</a>
         <a class="ob-link" href="https://www.flow-crm.study/helpcrm/obuchenie/prikaz/avtomaticheskii-vypusk" target="_blank">Автоматический выпуск →</a>
+    
       </div>
     </div>
   </div>
-</div></p>
+</div>
 
 [/html]
