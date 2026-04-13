@@ -4,187 +4,195 @@ order: 0.3
 title: Способы создания заявок
 ---
 
-Для работы в системе с данными будущих слушателей создаются заявки
-
-Есть три  способа попадания заявки в систему Flow:
-
-1. Добавление заявки с лендинга
-
-2. Добавление заявки вручную
-
-3. Массовый импорт
-
-Если у образовательной организации есть лендинг, то пользоваться можно всеми тремя способами, если же лендинга нет, то доступны только добавление вручную и импорт. Ниже подробно описаны все варианты добавления заявок.
-
-![](<./image (19).png>)
-
-[tabs]
-
-[tab:С лендинга]
-
-Одним из способов является возможность привязать лендинг для подачи заявок к системе Flow. После заполнения информации об организации возможно будет получить токен, который далее используется при настройке формы сбора заявок на вашем сайте. Вам необходимо обратиться к администратору вашего сайта и попросить его настроить форму по приёму заявок по этой [инструкции](./../../../Organization/Token/forma-sbora-zayavok-na-saite-organizacii).
-
-В данном случае будущий слушатель самостоятельно заходит в свой личный кабинет и заполняет всю информацию, а также загружает документы. Представителю организации необходимо вовремя проверять такие заявки, утверждать/отклонять загруженные документы, а также быть на связи в случае возникновения вопросов.
-
-Также в карточке программы можно скачать инструкцию для сбора заявок.
-
-![](./_index.png){width=813px height=159px}
-
-[/tab]
-
-[tab:Вручную]
-
-Можно вручную занести информацию по заявке в систему. Для этого во Flow надо зайти в меню "Заявки" - "Создать заявку".
-
-![](./_index-2.png){width=1301px height=257px}
-
-На странице создания заявки заполнить все необходимые данные.
-
-![](./sposoby-sozdaniya-zayavok.png){width=1968px height=1656px}
-
-Внизу страницы снова нажать «Создать заявку».
-
-[/tab]
-
-[tab:Импорт]
-
-Третьим способом массового создания заявок является Импорт. В случае, если необходимо создать несколько заявок, можно воспользоваться [Импортом заявок](https://web.flow-crm.study/Requests/ImportRequests). Чтобы попасть на страницу импорта, необходимо зайти в Заявки - Создать заявку - Импорт заявок.
-
-![](./sposoby-sozdaniya-zayavok-9.png){width=566px height=86px}
-
-Можно импортировать заявки из Excel файла: для этого надо выбрать образовательную программу для создаваемых заявок и загрузить в специальное окно заполненную [форму](https://web.flow-crm.study/files/Requests_form.xlsx).
-
-![](./_index-2.jpeg){width=1061px height=387px}
-
-[/tab]
-
-[tab:Вручную в Odin]
-
-Можно создать профиль студента изначально в Odin. Для этого надо заполнить все данные на странице регистрации и нажать "Зарегистрироваться".
-
-![](./_index-3.jpeg){width=429px height=1037px}
-
-Если такого студента затем добавить в группу, то во Flow он самостоятельно автоматически никак не отобразится.
-
-Для переноса студента во Flow необходимо создать во Flow пользователя с такой же почтой, в этом случае профили автоматически свяжутся между собой, при этом программа и поток также должны совпадать у студента в обеих системах. Создать профиль можно по кнопке "+" на странице "Пользователи".
-
-![](./_index-4.jpeg){width=897px height=683px}
-
-[/tab]
-
-[tab:Сбор заявок с дополнительными данными ]
-
-Для сбора заявок с какими-либо данными, которые в дальнейшем будут отображаться в карточке заявки, можно использовать такой функционал Flow, как:
-
-\- [\*\*внешние источники \*\*](./../../../instrukcii/kak-rabotat-s-vneshnimi-istochniki)(если хотите, чтобы собранные данные были доступны в заявке только для сотрудников вашей организации)
-
-**\-** либо же [\*\*дополнительные поля \*\*](./../../../Organization/dopolnitelnye-dokumenty-i-polya-vvoda-dannykh/_index)(чтобы обучающиеся сами заполняли какую-либо информацию в своих ЛК и она в дальнейшем показывалась в карточках заявок).
-
-Для этого предварительно, ДО начала сбора заявок, необходимо создать внешние источники или дополнительные поля на соответствующих вкладках в карточке организации.
-
-Для добавления внешних источников необходимо зайти на вкладку «Внешние источники» со страницы карточки организации.
-
-![](./sposoby-sozdaniya-zayavok-2.png){width=1666px height=285px}
-
-На соответствующей вкладке надо добавить необходимое количество внешних источников.
-
-![](./sposoby-sozdaniya-zayavok-3.png){width=1656px height=334px}
-
-По каждому источнику заполнить: само название источника; короткое название на английском языке (не использовать ничего, кроме английских букв, его мы далее будем вставлять в код формы); выбрать значение «*Заявка гражданина*» в поле «*В каком разделе Flow будет использоваться?*»; проставить при необходимости галочку «*Должно быть уникальным значением*», чтобы каждый раз, когда кто-то заполняет форму, в это поле можно было ввести только уникальную информацию, например, какой-нибудь промокод; не проставляем галочку «Скрыто в интерфейсе», если надо, чтобы дополнительная информация выводилась в заявке.
-
-![](./sposoby-sozdaniya-zayavok-4.png){width=1656px height=567px}
-
-Нажимаем «Сохранить». Заполненный внешний источник выглядит следующим образом:
-
-![](./sposoby-sozdaniya-zayavok-5.png){width=1656px height=479px}
-
-Для создания **дополнительного поля** идём на вкладку «Дополнительные данные» на странице карточки организации  и разворачиваем блок «Дополнительные поля».
-
-![](./sposoby-sozdaniya-zayavok-6.png){width=1657px height=541px}
-
-Нажимаем «Добавить новое поле». Заполняем само название поля (так оно будет называться в ЛК для слушателя), выбираем формат ввода данных, вводим ключевое слово, только английскими буквами (его мы вставим в код формы), и при необходимости заполняем информацию для слушателя (т.е. пояснения к заполнению поля, если это нужно). Если вам нужно, чтобы слушатель мог пропустить заполнение этого дополнительного поля, то отмечать галочку «Обязательно для заполнения» не нужно. Сохраняем.
-
-Заполненное дополнительное поле выглядит так:
-
-![](./sposoby-sozdaniya-zayavok-7.png){width=1657px height=635px}
-
-\___________________________________________________________________________________________\_
-
-После добавления внешних источников и/или дополнительных полей, следует внести некоторые изменения в код формы из [Шага 3 основной инструкции](./../../../Organization/Token/forma-sbora-zayavok-na-saite-organizacii). Рассмотрим на примере только что созданного источника «Промокод»:
-
-![](./sposoby-sozdaniya-zayavok-8.png){width=1624px height=226px}
-
-Нам нужно, чтобы в коде были указаны название внешнего источника/дополнительного поля и его название на английском языке. В коде, приведённом ниже, показано, как правильно это сделать, строки для внесения данных выделены жирной заливкой.
-
-То есть, вместо **Промокод** можно внести любое название вн.источника/доп.поля, а вместо **promo**, внутрь кавычек внести соответствующее ему английское слово, главное, чтобы они были созданы в организации заранее.
-
-
-
-\<form id="requestForm">
-
-
-
-\<input type="hidden" name="EducationalProgramId" value="1">
-
-\<input type="hidden" name="Token" value="fefaa9b1-21e4-49ef-929b-5daddd1033f6">
-
-
-
-\<label for="firstName">Имя:\</label>
-
-\<input type="text" name="FirstName" required maxlength="30">\<br>\<br>
-
-
-
-\<label for="lastName">Фамилия:\</label>
-
-\<input type="text" name="LastName" maxlength="30">\<br>\<br>
-
-
-
-\<label for="middleName">Отчество:\</label>
-
-\<input type="text" name="MiddleName" maxlength="30">\<br>\<br>
-
-
-
-\<label for="email">Email:\</label>
-
-\<input type="email" name="Email" required maxlength="30">\<br>\<br>
-
-
-
-\<label for="phone">Телефон:\</label>
-
-\<input type="tel" name="Phone" required maxlength="15">\<br>\<br>
-
-
-
-**\<label for="promo">Промокод:\</label>**
-
-
-
-**\<input type="text" name="Promo" required>\<br>\<br>**
-
-
-
-\<button type="submit">Отправить\</button>
-
-
-
-\</form>
-
-
-
-\<div id="responseMessage" style="display:none;">\</div>
-
-
-
-Далее работу с формой можно продолжать с [Шага 4 основной инструкции](./../../../Organization/Token/forma-sbora-zayavok-na-saite-organizacii).
-
-[/tab]
-
-[/tabs]
+[html]
+
+<p><style>
+.zc*{box-sizing:border-box}
+.zc{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;padding:8px 0}
+.zc-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:10px}
+@media(max-width:560px){.zc-grid{grid-template-columns:1fr}}
+.zc-card{border:1.5px solid #D3D1C7;border-radius:12px;background:#fff;padding:16px;cursor:pointer;transition:border-color .15s}
+.zc-card:hover{border-color:#378ADD}
+.zc-card.open{border-color:#1D9E75}
+.zc-card-head{display:flex;align-items:flex-start;gap:12px}
+.zc-icon{width:36px;height:36px;border-radius:8px;display:flex;align-items:center;justify-content:center;flex-shrink:0}
+.zc-card-title{font-size:14px;font-weight:500;color:#2C2C2A;margin-bottom:3px;line-height:1.3}
+.zc-card-when{font-size:12px;color:#5F5E5A;line-height:1.4}
+.zc-tags{display:flex;flex-wrap:wrap;gap:4px;margin-top:10px}
+.zc-tag{font-size:11px;padding:2px 8px;border-radius:10px;font-weight:500}
+.zc-expand{overflow:hidden;max-height:0;transition:max-height .3s ease}
+.zc-expand.open{max-height:900px}
+.zc-divider{border:none;border-top:0.5px solid #D3D1C7;margin:12px 0}
+.zc-steps{display:flex;flex-direction:column;gap:5px}
+.zc-step{display:flex;align-items:flex-start;gap:9px;padding:8px 12px;border-radius:8px;background:#F5F5F3}
+.zc-step-num{width:20px;height:20px;border-radius:50%;display:flex;align-items:center;justify-content:center;font-size:11px;font-weight:500;flex-shrink:0;margin-top:1px;background:#E6F1FB;color:#0C447C}
+.zc-step-text{font-size:12px;color:#2C2C2A;line-height:1.4}
+.zc-step-sub{font-size:11px;color:#5F5E5A;margin-top:1px}
+.zc-note{margin-top:10px;padding:8px 12px;border-left:2px solid #5DCAA5;font-size:12px;color:#085041;font-style:italic;line-height:1.5}
+.zc-tip{margin-top:8px;padding:8px 12px;border-left:2px solid #AFA9EC;font-size:12px;color:#3C3489;line-height:1.5;background:#EEEDFE;border-radius:0 6px 6px 0}
+.zc-warn{margin-top:8px;padding:8px 12px;border-left:2px solid #EF9F27;font-size:12px;color:#633806;line-height:1.5}
+.zc-sub-title{font-size:12px;font-weight:500;color:#2C2C2A;margin:12px 0 6px}
+.zc-arrow{margin-left:auto;flex-shrink:0;margin-top:2px;width:24px;height:24px;border-radius:50%;background:#F5F5F3;border:0.5px solid #D3D1C7;display:flex;align-items:center;justify-content:center;transition:transform .2s,background .15s}
+.zc-card:hover .zc-arrow{background:#E6F1FB;border-color:#85B7EB}
+.zc-card.open .zc-arrow{transform:rotate(180deg);background:#E1F5EE;border-color:#5DCAA5}
+.zc-wide{grid-column:1/-1}
+</style>
+
+<div class="zc">
+  <div class="zc-grid" id="zc-grid"></div>
+</div>
+
+<script>
+(function(){
+
+var chevron='<svg width="12" height="12" viewBox="0 0 12 12" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="2 4 6 8 10 4"/></svg>';
+
+var cards=[
+  {
+    icon:'<svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#185FA5" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><line x1="2" y1="12" x2="22" y2="12"/><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/></svg>',
+    ic:'#E6F1FB',
+    title:'С сайта / лендинга',
+    when:'Слушатель сам записывается через форму на вашем сайте',
+    tags:[{t:'Слушатель заполняет сам',c:'#E6F1FB',ct:'#0C447C'},{t:'Нужен сайт',c:'#F1EFE8',ct:'#444441'}],
+    steps:[
+      {n:1,t:'Получите токен организации',sub:'В карточке организации → вкладка «Информация»'},
+      {n:2,t:'Передайте инструкцию администратору сайта',sub:'Для настройки формы приёма заявок'},
+      {n:3,t:'Заявки автоматически поступают в Flow'},
+      {n:4,t:'Менеджер проверяет документы и одобряет заявки'},
+    ],
+    warn:'Требует технической настройки формы на сайте разработчиком.'
+  },
+  {
+    icon:'<svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#085041" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M11 4H4a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2v-7"/><path d="M18.5 2.5a2.121 2.121 0 0 1 3 3L12 15l-4 1 1-4 9.5-9.5z"/></svg>',
+    ic:'#E1F5EE',
+    title:'Вручную',
+    when:'Менеджер вносит одну заявку напрямую в систему',
+    tags:[{t:'Менеджер вносит',c:'#E1F5EE',ct:'#085041'},{t:'Одна заявка',c:'#F1EFE8',ct:'#444441'}],
+    steps:[
+      {n:1,t:'Перейдите в «Заявки» → «Создать заявку»'},
+      {n:2,t:'Заполните данные: ФИО, email, телефон'},
+      {n:3,t:'Выберите программу и поток'},
+      {n:4,t:'Нажмите «Создать заявку»'},
+      {n:5,t:'Слушатель получит письмо с доступом в ЛК'},
+    ],
+    note:'Слушатель может продолжить заполнение данных сам в ЛК.'
+  },
+  {
+    icon:'<svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#633806" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="17 8 12 3 7 8"/><line x1="12" y1="3" x2="12" y2="15"/></svg>',
+    ic:'#FAEEDA',
+    title:'Импорт из Excel',
+    when:'Массовое создание заявок из заполненного файла',
+    tags:[{t:'Менеджер вносит',c:'#E1F5EE',ct:'#085041'},{t:'Много заявок',c:'#FAEEDA',ct:'#633806'}],
+    steps:[
+      {n:1,t:'«Заявки» → «Создать заявку» → «Импорт заявок»'},
+      {n:2,t:'Скачайте шаблон Excel-файла'},
+      {n:3,t:'Заполните данные слушателей в файле'},
+      {n:4,t:'Выберите программу и загрузите файл'},
+      {n:5,t:'Нажмите «Импортировать»'},
+    ],
+    note:'Все заявки создадутся одновременно. Слушатели получат письма с доступом в ЛК.',
+    tip:'В шаблон импорта можно добавить колонки для дополнительных полей и внешних источников — данные сразу попадут в карточки заявок. Колонки должны совпадать с ключевыми словами настроенных полей.'
+  },
+  {
+    icon:'<svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#3C3489" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="3" width="20" height="14" rx="2"/><line x1="8" y1="21" x2="16" y2="21"/><line x1="12" y1="17" x2="12" y2="21"/></svg>',
+    ic:'#EEEDFE',
+    title:'Через Odin',
+    when:'Слушатель уже зарегистрирован в Odin — его нужно связать с Flow',
+    tags:[{t:'Интеграция с Odin',c:'#EEEDFE',ct:'#3C3489'},{t:'Ручная связка',c:'#F1EFE8',ct:'#444441'}],
+    steps:[
+      {n:1,t:'Создайте пользователя во Flow с той же почтой что в Odin',sub:'Кнопка «+» на странице «Пользователи»'},
+      {n:2,t:'Профили свяжутся автоматически'},
+      {n:3,t:'Программа и поток должны совпадать в обеих системах'},
+    ],
+    warn:'Если студент добавлен в группу в Odin, во Flow он автоматически не появится — нужна ручная связка.'
+  },
+  {
+    wide:true,
+    icon:'<svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#712B13" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="8" y1="6" x2="21" y2="6"/><line x1="8" y1="12" x2="21" y2="12"/><line x1="8" y1="18" x2="21" y2="18"/><line x1="3" y1="6" x2="3.01" y2="6"/><line x1="3" y1="12" x2="3.01" y2="12"/><line x1="3" y1="18" x2="3.01" y2="18"/></svg>',
+    ic:'#FAECE7',
+    title:'С дополнительными данными',
+    when:'Нужно собрать дополнительную информацию от слушателей — через ЛК или через форму на сайте',
+    tags:[{t:'Доп. поля в ЛК',c:'#FAECE7',ct:'#712B13'},{t:'Внешние источники',c:'#F1EFE8',ct:'#444441'}],
+    sections:[
+      {
+        title:'Дополнительные поля — слушатель заполняет в ЛК',
+        steps:[
+          {n:1,t:'Карточка организации → «Дополнительные данные» → «Добавить новое поле»'},
+          {n:2,t:'Укажите название, формат ввода и ключевое слово (на английском)'},
+          {n:3,t:'Сохраните — поле появится в ЛК слушателя на шаге заполнения данных'},
+        ],
+        note:'Поля создаются ДО начала сбора заявок. Слушатели сами заполняют их в ЛК, данные отображаются в карточке заявки.'
+      },
+      {
+        title:'Внешние источники — данные из формы на сайте',
+        steps:[
+          {n:1,t:'Карточка организации → «Внешние источники» → добавьте источник'},
+          {n:2,t:'Укажите название и короткое имя на английском'},
+          {n:3,t:'Добавьте поле с этим именем в код формы на сайте'},
+        ],
+        note:'Данные из внешних источников видны только сотрудникам организации — например, для передачи промокода или UTM-метки.'
+      }
+    ]
+  },
+];
+
+function renderSteps(steps){
+  var h='<div class="zc-steps">';
+  steps.forEach(function(s){
+    h+='<div class="zc-step"><div class="zc-step-num">'+s.n+'</div><div>';
+    h+='<div class="zc-step-text">'+s.t+'</div>';
+    if(s.sub)h+='<div class="zc-step-sub">'+s.sub+'</div>';
+    h+='</div></div>';
+  });
+  return h+'</div>';
+}
+
+var openIdx=-1;
+
+function render(){
+  var html='';
+  cards.forEach(function(c,i){
+    var isOpen=openIdx===i;
+    html+='<div class="zc-card'+(isOpen?' open':'')+(c.wide?' zc-wide':'')+'" onclick="zcToggle('+i+')">';
+    html+='<div class="zc-card-head">';
+    html+='<div class="zc-icon" style="background:'+c.ic+'">'+c.icon+'</div>';
+    html+='<div style="flex:1"><div class="zc-card-title">'+c.title+'</div><div class="zc-card-when">'+c.when+'</div></div>';
+    html+='<div class="zc-arrow" style="color:'+(isOpen?'#085041':'#888780')+'">'+chevron+'</div>';
+    html+='</div>';
+    html+='<div class="zc-tags">';
+    c.tags.forEach(function(t){html+='<span class="zc-tag" style="background:'+t.c+';color:'+t.ct+'">'+t.t+'</span>';});
+    html+='</div>';
+    html+='<div class="zc-expand'+(isOpen?' open':'')+'">';
+    html+='<hr class="zc-divider">';
+    if(c.sections){
+      c.sections.forEach(function(sec,si){
+        if(si>0)html+='<hr class="zc-divider">';
+        html+='<div class="zc-sub-title">'+sec.title+'</div>';
+        html+=renderSteps(sec.steps);
+        if(sec.note)html+='<div class="zc-note">'+sec.note+'</div>';
+      });
+    } else {
+      html+=renderSteps(c.steps);
+      if(c.warn)html+='<div class="zc-warn">'+c.warn+'</div>';
+      if(c.note)html+='<div class="zc-note">'+c.note+'</div>';
+      if(c.tip)html+='<div class="zc-tip">'+c.tip+'</div>';
+    }
+    html+='</div>';
+    html+='</div>';
+  });
+  document.getElementById('zc-grid').innerHTML=html;
+}
+
+window.zcToggle=function(i){openIdx=openIdx===i?-1:i;render();};
+render();
+})();
+</script></p>
+
+[/html]
+
+[Как работать с доп.полями?](./../../../instrukcii/kak-rabotat-s-dopolnitelnymi-polyami/_index)
+
+[Как работать с внешними источниками?](./../../../instrukcii/kak-rabotat-s-vneshnimi-istochniki)
 
 ## Видеоинструкция
 
