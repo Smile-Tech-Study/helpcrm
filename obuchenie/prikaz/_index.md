@@ -234,7 +234,7 @@ function render() {
     '<div class="pw-steps">' + stepsHtml + '</div>' +
     (s.warn ? '<div class="pw-warn">' + s.warn + '</div>' : '') +
     (s.note ? '<div class="pw-note">' + s.note + '</div>' : '') +
-    (st.mode === 'auto' && st.launch === 'night' ? '<div style="margin-top:12px;padding:10px 14px;border-radius:8px;background:#F5F5F3;font-size:12px;color:#5F5E5A;line-height:1.5">Хотите задать свой номер, дату или выбрать конкретных слушателей? <a id="pw-switch-link" href="https://www.flow-crm.study/helpcrm/obuchenie/prikaz/avtomaticheskii-vypusk#%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9-%D1%80%D0%B5%D0%B6%D0%B8%D0%BC-%D1%81-%D1%80%D1%83%D1%87%D0%BD%D1%8B%D0%BC%D0%B8-%D0%BA%D0%BE%D1%80%D1%80%D0%B5%D0%BA%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B0%D0%BC%D0%B8" style="color:#185FA5;font-size:12px;font-family:inherit" target="_blank" rel="noopener noreferrer">Вручную со страницы потока →</a></div>' : '');
+    (st.mode === 'auto' && st.launch === 'night' ? '<div style="margin-top:12px;padding:10px 14px;border-radius:8px;background:#F5F5F3;font-size:12px;color:#5F5E5A;line-height:1.5">Хотите задать свой номер, дату или выбрать конкретных слушателей? <a id="pw-switch-link" href="#" style="color:#185FA5;font-size:12px;font-family:inherit">Вручную со страницы потока →</a></div>' : '');
 }
 
 render();
