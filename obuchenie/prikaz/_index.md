@@ -168,7 +168,7 @@ var sc = {
     {n:2,bg:'#E6F1FB',c:'#0C447C',t:'Перейдите в «Обучение» — «Приказы» — «Создать»'},
     {n:3,bg:'#E6F1FB',c:'#0C447C',t:'Заполните: номер, программа, поток, тип «На зачисление», основание, дата'},
     {n:4,bg:'#E6F1FB',c:'#0C447C',t:'Прикрепите скан подписанного приказа (можно добавить позже)'},
-    {n:5,bg:'#E1F5EE',c:'#085041',t:'Откройте карточку заявки — блок «Обучение» — «Редактировать»'},
+    {n:5,bg:'#E1F5EE',c:'#085041',t:'Откройте карточку заявки на этапе «Требуется выпустить приказ на зачисление» — блок «Обучение» — «Редактировать»'},
     {n:6,bg:'#E1F5EE',c:'#085041',t:'Выберите созданный приказ из списка — «Сохранить»'},
     {n:7,bg:'#E1F5EE',c:'#085041',t:'Повторите шаги 5–6 для каждого слушателя потока'},
   ],note:'Приказ назначается только если в заявке выбрана группа шаблонов с ручным выпуском приказов.'},
@@ -234,7 +234,7 @@ function render() {
     '<div class="pw-steps">' + stepsHtml + '</div>' +
     (s.warn ? '<div class="pw-warn">' + s.warn + '</div>' : '') +
     (s.note ? '<div class="pw-note">' + s.note + '</div>' : '') +
-    (st.mode === 'auto' && st.launch === 'night' ? '<div style="margin-top:12px;padding:10px 14px;border-radius:8px;background:#F5F5F3;font-size:12px;color:#5F5E5A;line-height:1.5">Хотите задать свой номер, дату или выбрать конкретных слушателей? <a id="pw-switch-link" href="#" style="color:#185FA5;font-size:12px;font-family:inherit">Вручную со страницы потока →</a></div>' : '');
+    (st.mode === 'auto' && st.launch === 'night' ? '<div style="margin-top:12px;padding:10px 14px;border-radius:8px;background:#F5F5F3;font-size:12px;color:#5F5E5A;line-height:1.5">Хотите задать свой номер, дату или выбрать конкретных слушателей? <a id="pw-switch-link" href="https://www.flow-crm.study/helpcrm/obuchenie/prikaz/avtomaticheskii-vypusk#%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9-%D1%80%D0%B5%D0%B6%D0%B8%D0%BC-%D1%81-%D1%80%D1%83%D1%87%D0%BD%D1%8B%D0%BC%D0%B8-%D0%BA%D0%BE%D1%80%D1%80%D0%B5%D0%BA%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B0%D0%BC%D0%B8" style="color:#185FA5;font-size:12px;font-family:inherit">Вручную со страницы потока →</a></div>' : '');
 }
 
 render();
@@ -269,6 +269,6 @@ document.getElementById('pw-result').addEventListener('click', function(e) {
 
 **Удалить приказ нельзя. Можно заменить скан приказа или перегенерировать приказ (изменить состав слушателей, номер, дату).**
 
-**Если в автоматически сгенерированном приказе остался последний слушатель, то для его удаления исключения обратиться в** [**техническую поддержку**](https://forms.yandex.ru/cloud/65d60d46c417f36a041706d2/)**.** 
+**Если в автоматически сгенерированном приказе остался последний слушатель, то для его удаления исключения обратиться в** [**техническую поддержку**](https://forms.yandex.ru/cloud/65d60d46c417f36a041706d2/)**.**
 
 :::
