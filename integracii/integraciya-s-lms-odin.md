@@ -25,7 +25,7 @@ order: 0.5
 
 1\.Откройте организацию в системе [Odin](https://www.odin.study/ru/University/Universities?page=1&name=&universityProjectTypes&universityLincenseTypes).
 
-2\.Создайте новое [подразделение](https://gramax.smile-tech.study/helpOdin/struktura/podrazdelenie). Если подразделение уже создано, его можно использовать во Flow.
+2\.Создайте новое [подразделение](https://www.odin.study/help/struktura/podrazdelenie). Если подразделение уже создано, его можно использовать во Flow.
 
 :::danger 
 
@@ -49,7 +49,7 @@ order: 0.5
 
 #### **Способ 1: Создание новой программы в Odin из системы Flow.**
 
-1. Создайте новую программу или откройте на редактирование существующую со страницы [Программы](https://www.flow-crm.study/EducationPrograms/EducationProgramList).
+1. Создайте новую программу или откройте на редактирование существующую со страницы [Программы](./../obuchenie/Programma/_index).
 
 2. Выберите подразделение, привязанное к системе Odin в шаге 2.
 
@@ -72,7 +72,7 @@ order: 0.5
 
 :::
 
-1. Создайте новую программу или откройте на редактирование существующую со страницы [Программы](https://www.flow-crm.study/EducationPrograms/EducationProgramList).
+1. Создайте новую программу или откройте на редактирование существующую со страницы [Программы](./../obuchenie/Programma/_index).
 
 2. Выберите подразделение, привязанное к системе Odin в шаге 2.
 
