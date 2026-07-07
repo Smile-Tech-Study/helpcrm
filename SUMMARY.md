@@ -1,6 +1,6 @@
 ---
 title: Содержание
-order: 0.1
+order: 1
 ---
 
 [html]
