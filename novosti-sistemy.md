@@ -3,8 +3,8 @@ order: 0.5
 title: Новости системы
 ---
 
+[html]
 
-<html lang="ru">
 <head>
 <meta charset="UTF-8">
 <title>Flow CRM — официальный канал</title>
@@ -113,4 +113,5 @@ title: Новости системы
 </div>
 
 </body>
-</html>
+
+[/html]
