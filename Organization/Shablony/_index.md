@@ -8,7 +8,7 @@ order: 3.1
 
 :::info
 
-Прежде чем приступить к работе с шаблонами заполните подписантов и префикс на странице организации.
+Прежде чем приступить к работе с [шаблонами](./sozdanie-sobstvennykh-shablonov.md) заполните [подписантов](./../podpisanty.md) и [префикс](./prefiks-organizacii-dlya-generiruemykh-dokumentov/_index.md) на странице организации.
 
 :::
 
